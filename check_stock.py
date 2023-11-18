@@ -5,29 +5,24 @@ import requests
 from bs4 import BeautifulSoup, ResultSet, Tag
 
 FARER_URL = "https://usd.farer.com"
-ALL_WATCHES_URL = FARER_URL + "/collections/all-watches"
+PRODUCTS_LIST_URL = FARER_URL + "/products.json"
+PRODUCT_URL_BASE = FARER_URL + "/products/"
 
 STOCK_PATH = pathlib.Path("stock")
 
 
 def get_product_links() -> Generator[str, None, None]:
-    watches_resp = requests.get(ALL_WATCHES_URL)
-    watches_soup = BeautifulSoup(watches_resp.text, "html.parser")
+    page = 1
+    while products := requests.get(
+        PRODUCTS_LIST_URL, params={"limit": 250, "page": page}
+    ).json()["products"]:
+        for product in products:
+            if product["product_type"] == "Watch":
+                yield PRODUCT_URL_BASE + product["handle"]
 
-    products = cast(ResultSet[Tag], watches_soup.find_all("div", class_="product"))
-    for product in products:
-        product_link_tag = cast(Tag | None, product.find("a"))
-        if product_link_tag is None:
-            print("No product link found for product")
-            continue
-
-        product_link = product_link_tag.get("href")
-        if product_link is None or isinstance(product_link, list):
-            print("Incorrect number of hrefs found for product")
-            continue
-
-        product_link = FARER_URL + product_link
-        yield product_link
+        if len(products) < 250:
+            break
+        page += 1
 
 
 def get_product_stock(link: str) -> list[str]:
