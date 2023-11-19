@@ -10,19 +10,54 @@ PRODUCT_URL_BASE = FARER_URL + "/products/"
 
 STOCK_PATH = pathlib.Path("stock")
 
+README_CONTENT = """# farer-stock-tracker
 
-def get_product_links() -> Generator[str, None, None]:
+This repo tracks the available serial numbers for each watch model from [Farer](https://farer.com).
+
+## Usage
+
+This repo updates the available serial numbers every hour. Serial numbers for each model are listed in the relevant file in the [stock](./stock) folder. A summary of available stock is listed below.
+
+## Stock
+
+| Model | Available | Serial Numbers |
+| ----- | --------: | -------------: |
+"""
+
+
+def get_watches() -> list[tuple[str, str]]:
+    watches = []
+
     page = 1
     while products := requests.get(
         PRODUCTS_LIST_URL, params={"limit": 250, "page": page}
     ).json()["products"]:
         for product in products:
             if product["product_type"] == "Watch":
-                yield PRODUCT_URL_BASE + product["handle"]
+                watches.append(
+                    (
+                        (
+                            " ".join(
+                                [
+                                    word.strip()
+                                    for word in product["title"]
+                                    .replace("<br>", "-")
+                                    .split(" ")
+                                    if word.strip()
+                                ]
+                            )
+                        ),
+                        product["handle"],
+                    )
+                )
 
         if len(products) < 250:
             break
         page += 1
+
+    watches.sort(key=lambda x: x[0])
+
+    return watches
 
 
 def get_product_stock(link: str) -> list[str]:
@@ -42,14 +77,24 @@ print("Cleaning existing stock files")
 for file in STOCK_PATH.iterdir():
     file.unlink()
 
-for product_link in get_product_links():
-    print(f"Getting availability for {product_link}")
-    stock = get_product_stock(product_link)
+total_stock = 0
+
+for watch_name, watch_slug in get_watches():
+    print(f"Getting availability for {watch_name}")
+    stock = get_product_stock(PRODUCT_URL_BASE + watch_slug)
 
     if not stock:
         print("No stock found")
         continue
 
-    product_slug = product_link.split("/")[-1]
-    with open(STOCK_PATH / product_slug, "w") as f:
+    with open(STOCK_PATH / watch_slug, "w") as f:
         f.write("\n".join(stock))
+
+    README_CONTENT += f"| [{watch_name}]({PRODUCT_URL_BASE + watch_slug}) | {len(stock)} | [`{watch_slug}`](./stock/{watch_slug}) |\n"
+    total_stock += len(stock)
+
+
+README_CONTENT += f"| **Total** | **{total_stock}** | |\n"
+
+with open("README.md", "w") as f:
+    f.write(README_CONTENT)
