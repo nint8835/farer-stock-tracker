@@ -32,3 +32,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Update stock"
+          commit_author: "Stockbot <stockbot@bootleg.technology>"
+          commit_user_email: "stockbot@bootleg.technology"
