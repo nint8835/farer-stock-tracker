@@ -24,10 +24,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond](https://usd.farer.com/products/lomond) | 59 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 62 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 7 | [`mansfield`](./stock/mansfield) |
-| [Mansfield - Eastern Arabic Edition](https://usd.farer.com/products/mansfield-eastern-arabic-edition) | 2 | [`mansfield-eastern-arabic-edition`](./stock/mansfield-eastern-arabic-edition) |
 | [Milan](https://usd.farer.com/products/milan) | 82 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 15 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 18 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 22 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 14 | [`swann`](./stock/swann) |
-| **Total** | **777** | |
+| **Total** | **775** | |
