@@ -88,7 +88,7 @@ for watch_name, watch_slug in get_watches():
         continue
 
     with open(STOCK_PATH / watch_slug, "w") as f:
-        f.write("\n".join(stock))
+        f.write("\n".join(stock) + "\n")
 
     README_CONTENT += f"| [{watch_name}]({PRODUCT_URL_BASE + watch_slug}) | {len(stock)} | [`{watch_slug}`](./stock/{watch_slug}) |\n"
     total_stock += len(stock)
