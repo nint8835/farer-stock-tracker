@@ -24,10 +24,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 18 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 55 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 58 | [`london`](./stock/london) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 1 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 49 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 79 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 12 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 18 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 16 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 13 | [`swann`](./stock/swann) |
-| **Total** | **708** | |
+| **Total** | **756** | |
