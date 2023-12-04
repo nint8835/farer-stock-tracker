@@ -15,7 +15,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 14 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 44 | [`durham`](./stock/durham) |
 | [Exmoor](https://usd.farer.com/products/exmoor) | 6 | [`exmoor`](./stock/exmoor) |
-| [Lander IV](https://usd.farer.com/products/lander) | 34 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 33 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 73 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 64 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 43 | [`lander-sea-coast`](./stock/lander-sea-coast) |
@@ -28,4 +28,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 17 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 14 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 13 | [`swann`](./stock/swann) |
-| **Total** | **746** | |
+| **Total** | **745** | |
