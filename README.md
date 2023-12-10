@@ -14,7 +14,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 84 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 10 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 40 | [`durham`](./stock/durham) |
-| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 76 | [`durham-pullman`](./stock/durham-pullman) |
+| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 75 | [`durham-pullman`](./stock/durham-pullman) |
 | [Exmoor](https://usd.farer.com/products/exmoor) | 6 | [`exmoor`](./stock/exmoor) |
 | [Lander IV](https://usd.farer.com/products/lander) | 24 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 67 | [`lander-36mm`](./stock/lander-36mm) |
@@ -25,8 +25,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [London](https://usd.farer.com/products/london) | 54 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 45 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 76 | [`milan`](./stock/milan) |
-| [Paris](https://usd.farer.com/products/paris) | 11 | [`paris`](./stock/paris) |
+| [Paris](https://usd.farer.com/products/paris) | 10 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 16 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 5 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 12 | [`swann`](./stock/swann) |
-| **Total** | **768** | |
+| **Total** | **766** | |
