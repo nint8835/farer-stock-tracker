@@ -24,10 +24,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond](https://usd.farer.com/products/lomond) | 53 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 54 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 43 | [`mansfield`](./stock/mansfield) |
-| [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 88 | [`meredith-gmt`](./stock/meredith-gmt) |
+| [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 86 | [`meredith-gmt`](./stock/meredith-gmt) |
 | [Milan](https://usd.farer.com/products/milan) | 74 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 10 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 15 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 50 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 12 | [`swann`](./stock/swann) |
-| **Total** | **866** | |
+| **Total** | **864** | |
