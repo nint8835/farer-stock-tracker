@@ -14,7 +14,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 83 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 10 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 30 | [`durham`](./stock/durham) |
-| [Durham - Eastern Arabic Edition](https://usd.farer.com/products/durham-eastern-arabic-edition) | 1 | [`durham-eastern-arabic-edition`](./stock/durham-eastern-arabic-edition) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 57 | [`durham-pullman`](./stock/durham-pullman) |
 | [Lander IV](https://usd.farer.com/products/lander) | 14 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 65 | [`lander-36mm`](./stock/lander-36mm) |
@@ -30,4 +29,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 14 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 50 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 11 | [`swann`](./stock/swann) |
-| **Total** | **800** | |
+| **Total** | **799** | |
