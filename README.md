@@ -28,6 +28,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 71 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 10 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 14 | [`portobello`](./stock/portobello) |
-| [Stanhope II](https://usd.farer.com/products/stanhope) | 50 | [`stanhope`](./stock/stanhope) |
+| [Stanhope II](https://usd.farer.com/products/stanhope) | 49 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 11 | [`swann`](./stock/swann) |
-| **Total** | **780** | |
+| **Total** | **779** | |
