@@ -24,9 +24,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [London](https://usd.farer.com/products/london) | 47 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 40 | [`mansfield`](./stock/mansfield) |
 | [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 41 | [`meredith-gmt`](./stock/meredith-gmt) |
-| [Milan](https://usd.farer.com/products/milan) | 70 | [`milan`](./stock/milan) |
+| [Milan](https://usd.farer.com/products/milan) | 69 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 12 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 49 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 10 | [`swann`](./stock/swann) |
-| **Total** | **743** | |
+| **Total** | **742** | |
