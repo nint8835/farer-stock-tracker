@@ -12,11 +12,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | ----- | --------: | -------------: |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 65 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 81 | [`carnegie-titanium`](./stock/carnegie-titanium) |
-| [Chalcot](https://usd.farer.com/products/chalcot) | 7 | [`chalcot`](./stock/chalcot) |
+| [Chalcot](https://usd.farer.com/products/chalcot) | 6 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 30 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 41 | [`durham-pullman`](./stock/durham-pullman) |
 | [Lander IV](https://usd.farer.com/products/lander) | 7 | [`lander`](./stock/lander) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 63 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 62 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 54 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 37 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 18 | [`lethbridge`](./stock/lethbridge) |
@@ -29,4 +29,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 12 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 48 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 10 | [`swann`](./stock/swann) |
-| **Total** | **726** | |
+| **Total** | **724** | |
