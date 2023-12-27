@@ -15,11 +15,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 7 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 30 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 41 | [`durham-pullman`](./stock/durham-pullman) |
-| [Lander IV](https://usd.farer.com/products/lander) | 9 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 7 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 63 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 54 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 37 | [`lander-sea-coast`](./stock/lander-sea-coast) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 17 | [`lethbridge`](./stock/lethbridge) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 18 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 52 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 45 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 40 | [`mansfield`](./stock/mansfield) |
@@ -28,5 +28,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 7 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 12 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 48 | [`stanhope`](./stock/stanhope) |
-| [Swann](https://usd.farer.com/products/swann) | 9 | [`swann`](./stock/swann) |
+| [Swann](https://usd.farer.com/products/swann) | 10 | [`swann`](./stock/swann) |
 | **Total** | **726** | |
