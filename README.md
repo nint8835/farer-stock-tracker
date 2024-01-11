@@ -21,7 +21,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 36 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 16 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 45 | [`lomond`](./stock/lomond) |
-| [London](https://usd.farer.com/products/london) | 44 | [`london`](./stock/london) |
+| [London](https://usd.farer.com/products/london) | 43 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 35 | [`mansfield`](./stock/mansfield) |
 | [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 13 | [`meredith-gmt`](./stock/meredith-gmt) |
 | [Milan](https://usd.farer.com/products/milan) | 68 | [`milan`](./stock/milan) |
@@ -29,4 +29,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 9 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 40 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 9 | [`swann`](./stock/swann) |
-| **Total** | **699** | |
+| **Total** | **698** | |
