@@ -12,10 +12,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | ----- | --------: | -------------: |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 65 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 78 | [`carnegie-titanium`](./stock/carnegie-titanium) |
-| [Chalcot](https://usd.farer.com/products/chalcot) | 25 | [`chalcot`](./stock/chalcot) |
+| [Chalcot](https://usd.farer.com/products/chalcot) | 24 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 24 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 29 | [`durham-pullman`](./stock/durham-pullman) |
-| [Lander IV](https://usd.farer.com/products/lander) | 34 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 33 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 21 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 60 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 45 | [`lander-midnight`](./stock/lander-midnight) |
@@ -24,10 +24,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond](https://usd.farer.com/products/lomond) | 45 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 43 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 35 | [`mansfield`](./stock/mansfield) |
-| [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 6 | [`meredith-gmt`](./stock/meredith-gmt) |
+| [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 5 | [`meredith-gmt`](./stock/meredith-gmt) |
 | [Milan](https://usd.farer.com/products/milan) | 68 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 15 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 9 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 38 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 9 | [`swann`](./stock/swann) |
-| **Total** | **700** | |
+| **Total** | **697** | |
