@@ -15,8 +15,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 24 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 24 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 29 | [`durham-pullman`](./stock/durham-pullman) |
-| [Lander IV](https://usd.farer.com/products/lander) | 33 | [`lander`](./stock/lander) |
-| [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 20 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 32 | [`lander`](./stock/lander) |
+| [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 19 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 60 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 44 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 35 | [`lander-sea-coast`](./stock/lander-sea-coast) |
@@ -30,4 +30,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 9 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 38 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 9 | [`swann`](./stock/swann) |
-| **Total** | **693** | |
+| **Total** | **691** | |
