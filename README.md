@@ -16,7 +16,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham](https://usd.farer.com/products/durham) | 22 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 26 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour Ocean White-Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 48 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
-| [Endeavour-Titanium Series II](https://usd.farer.com/products/endeavour) | 105 | [`endeavour`](./stock/endeavour) |
+| [Endeavour-Titanium Series II](https://usd.farer.com/products/endeavour) | 104 | [`endeavour`](./stock/endeavour) |
 | [Hecla Carmine Red-Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 131 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 20 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 1 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
@@ -32,4 +32,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 8 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 37 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 7 | [`swann`](./stock/swann) |
-| **Total** | **912** | |
+| **Total** | **911** | |
