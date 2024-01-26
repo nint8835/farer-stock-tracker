@@ -41,7 +41,7 @@ def get_watches() -> list[tuple[str, str]]:
                                 [
                                     word.strip()
                                     for word in product["title"]
-                                    .replace("<br>", "-")
+                                    .replace("<br>", " - ")
                                     .split(" ")
                                     if word.strip()
                                 ]

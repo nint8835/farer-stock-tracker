@@ -15,9 +15,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 21 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 22 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 26 | [`durham-pullman`](./stock/durham-pullman) |
-| [Endeavour Ocean White-Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 45 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
-| [Endeavour-Titanium Series II](https://usd.farer.com/products/endeavour) | 102 | [`endeavour`](./stock/endeavour) |
-| [Hecla Carmine Red-Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 128 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
+| [Endeavour - Titanium Series II](https://usd.farer.com/products/endeavour) | 102 | [`endeavour`](./stock/endeavour) |
+| [Endeavour Ocean White - Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 45 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
+| [Hecla Carmine Red - Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 128 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 20 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 58 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 41 | [`lander-midnight`](./stock/lander-midnight) |
