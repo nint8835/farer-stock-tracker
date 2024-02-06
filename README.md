@@ -20,6 +20,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Hecla Carmine Red - Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 83 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 14 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 57 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 1 | [`lander-kano`](./stock/lander-kano) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 38 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 33 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 12 | [`lethbridge`](./stock/lethbridge) |
@@ -32,4 +33,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 2 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 32 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 7 | [`swann`](./stock/swann) |
-| **Total** | **762** | |
+| **Total** | **763** | |
