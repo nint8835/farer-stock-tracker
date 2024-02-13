@@ -21,15 +21,15 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV](https://usd.farer.com/products/lander) | 10 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 53 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 35 | [`lander-midnight`](./stock/lander-midnight) |
-| [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 32 | [`lander-sea-coast`](./stock/lander-sea-coast) |
+| [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 31 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 13 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 37 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 38 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 27 | [`mansfield`](./stock/mansfield) |
 | [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 14 | [`meredith-gmt`](./stock/meredith-gmt) |
-| [Milan](https://usd.farer.com/products/milan) | 62 | [`milan`](./stock/milan) |
-| [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
+| [Milan](https://usd.farer.com/products/milan) | 61 | [`milan`](./stock/milan) |
+| [Paris](https://usd.farer.com/products/paris) | 12 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 9 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 29 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 8 | [`swann`](./stock/swann) |
-| **Total** | **743** | |
+| **Total** | **740** | |
