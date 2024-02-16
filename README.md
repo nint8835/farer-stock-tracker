@@ -13,7 +13,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 60 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 71 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 16 | [`chalcot`](./stock/chalcot) |
-| [Durham](https://usd.farer.com/products/durham) | 13 | [`durham`](./stock/durham) |
+| [Durham](https://usd.farer.com/products/durham) | 12 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 12 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour - Titanium Series II](https://usd.farer.com/products/endeavour) | 78 | [`endeavour`](./stock/endeavour) |
 | [Endeavour Ocean White - Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 20 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
@@ -26,10 +26,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond](https://usd.farer.com/products/lomond) | 34 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 38 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 27 | [`mansfield`](./stock/mansfield) |
-| [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 14 | [`meredith-gmt`](./stock/meredith-gmt) |
+| [Meredith GMT - Limited Edition](https://usd.farer.com/products/meredith-gmt) | 13 | [`meredith-gmt`](./stock/meredith-gmt) |
 | [Milan](https://usd.farer.com/products/milan) | 60 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 8 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 29 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 8 | [`swann`](./stock/swann) |
-| **Total** | **714** | |
+| **Total** | **712** | |
