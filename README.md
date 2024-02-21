@@ -11,13 +11,13 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 58 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 71 | [`carnegie-titanium`](./stock/carnegie-titanium) |
+| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 70 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 16 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 10 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 9 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour - Titanium Series II](https://usd.farer.com/products/endeavour) | 75 | [`endeavour`](./stock/endeavour) |
 | [Endeavour Ocean White - Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 9 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
-| [Hecla Carmine Red - Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 69 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
+| [Hecla Carmine Red - Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 68 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 3 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 52 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 34 | [`lander-midnight`](./stock/lander-midnight) |
@@ -31,4 +31,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 8 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 26 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 8 | [`swann`](./stock/swann) |
-| **Total** | **659** | |
+| **Total** | **657** | |
