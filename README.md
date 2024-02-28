@@ -18,7 +18,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour Ocean White - Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 3 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [FOXE](https://usd.farer.com/products/foxe) | 17 | [`foxe`](./stock/foxe) |
 | [Hecla Carmine Red - Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 67 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
-| [Lander IV](https://usd.farer.com/products/lander) | 1 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 100 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 48 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 32 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 22 | [`lander-sea-coast`](./stock/lander-sea-coast) |
@@ -33,4 +33,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Roché II](https://usd.farer.com/products/roche) | 29 | [`roche`](./stock/roche) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 21 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 7 | [`swann`](./stock/swann) |
-| **Total** | **675** | |
+| **Total** | **774** | |
