@@ -24,12 +24,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 11 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 30 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 30 | [`london`](./stock/london) |
-| [MARKHAM II](https://usd.farer.com/products/markham) | 53 | [`markham`](./stock/markham) |
+| [MARKHAM II](https://usd.farer.com/products/markham) | 52 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 18 | [`mansfield`](./stock/mansfield) |
-| [Milan](https://usd.farer.com/products/milan) | 52 | [`milan`](./stock/milan) |
+| [Milan](https://usd.farer.com/products/milan) | 51 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 4 | [`portobello`](./stock/portobello) |
 | [Roché II](https://usd.farer.com/products/roche) | 25 | [`roche`](./stock/roche) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 19 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 6 | [`swann`](./stock/swann) |
-| **Total** | **742** | |
+| **Total** | **740** | |
