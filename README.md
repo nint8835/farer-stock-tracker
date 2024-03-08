@@ -18,16 +18,16 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV](https://usd.farer.com/products/lander) | 91 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 47 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 25 | [`lander-midnight`](./stock/lander-midnight) |
-| [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 19 | [`lander-sea-coast`](./stock/lander-sea-coast) |
+| [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 18 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 11 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 27 | [`lomond`](./stock/lomond) |
-| [London](https://usd.farer.com/products/london) | 29 | [`london`](./stock/london) |
+| [London](https://usd.farer.com/products/london) | 28 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 42 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 17 | [`mansfield`](./stock/mansfield) |
-| [Milan](https://usd.farer.com/products/milan) | 51 | [`milan`](./stock/milan) |
+| [Milan](https://usd.farer.com/products/milan) | 50 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
-| [Portobello](https://usd.farer.com/products/portobello) | 2 | [`portobello`](./stock/portobello) |
+| [Portobello](https://usd.farer.com/products/portobello) | 1 | [`portobello`](./stock/portobello) |
 | [Roché II](https://usd.farer.com/products/roche) | 4 | [`roche`](./stock/roche) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 18 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 4 | [`swann`](./stock/swann) |
-| **Total** | **657** | |
+| **Total** | **653** | |
