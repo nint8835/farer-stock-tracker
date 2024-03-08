@@ -13,7 +13,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 55 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 68 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Durham](https://usd.farer.com/products/durham) | 9 | [`durham`](./stock/durham) |
-| [Endeavour - Titanium Series II](https://usd.farer.com/products/endeavour) | 65 | [`endeavour`](./stock/endeavour) |
+| [Endeavour - Titanium Series II](https://usd.farer.com/products/endeavour) | 64 | [`endeavour`](./stock/endeavour) |
 | [Hecla Carmine Red - Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 63 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 91 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 47 | [`lander-36mm`](./stock/lander-36mm) |
@@ -30,4 +30,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Roché II](https://usd.farer.com/products/roche) | 4 | [`roche`](./stock/roche) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 17 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 4 | [`swann`](./stock/swann) |
-| **Total** | **662** | |
+| **Total** | **661** | |
