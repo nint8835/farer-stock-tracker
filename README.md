@@ -30,5 +30,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 13 | [`portobello`](./stock/portobello) |
 | [Roché II](https://usd.farer.com/products/roche) | 96 | [`roche`](./stock/roche) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 15 | [`stanhope`](./stock/stanhope) |
-| [Swann](https://usd.farer.com/products/swann) | 1 | [`swann`](./stock/swann) |
-| **Total** | **823** | |
+| **Total** | **822** | |
