@@ -16,7 +16,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour - Titanium Series II](https://usd.farer.com/products/endeavour) | 62 | [`endeavour`](./stock/endeavour) |
 | [FOXE](https://usd.farer.com/products/foxe) | 84 | [`foxe`](./stock/foxe) |
 | [Hecla Carmine Red - Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 62 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
-| [Lander IV](https://usd.farer.com/products/lander) | 87 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 86 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 46 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 24 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 18 | [`lander-sea-coast`](./stock/lander-sea-coast) |
@@ -28,6 +28,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 49 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 12 | [`portobello`](./stock/portobello) |
-| [Stanhope II](https://usd.farer.com/products/stanhope) | 15 | [`stanhope`](./stock/stanhope) |
+| [Stanhope II](https://usd.farer.com/products/stanhope) | 14 | [`stanhope`](./stock/stanhope) |
 | [Swann](https://usd.farer.com/products/swann) | 1 | [`swann`](./stock/swann) |
-| **Total** | **716** | |
+| **Total** | **714** | |
