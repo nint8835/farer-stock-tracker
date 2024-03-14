@@ -4,7 +4,7 @@ from typing import Generator, cast
 import requests
 from bs4 import BeautifulSoup, ResultSet, Tag
 
-FARER_URL = "https://usd.farer.com"
+FARER_URL = "https://farer.com"
 PRODUCTS_LIST_URL = FARER_URL + "/products.json"
 PRODUCT_URL_BASE = FARER_URL + "/products/"
 
