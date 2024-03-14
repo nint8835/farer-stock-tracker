@@ -14,7 +14,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://farer.com/products/carnegie-titanium) | 68 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Durham](https://farer.com/products/durham) | 8 | [`durham`](./stock/durham) |
 | [Endeavour - Titanium Series II](https://farer.com/products/endeavour) | 61 | [`endeavour`](./stock/endeavour) |
-| [Endeavour Ocean White - Titanium Series II](https://farer.com/products/endeavour-ocean-white) | 1 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [FOXE](https://farer.com/products/foxe) | 82 | [`foxe`](./stock/foxe) |
 | [Hecla Carmine Red - Titanium Series II](https://farer.com/products/hecla-carmine-red) | 62 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://farer.com/products/lander) | 85 | [`lander`](./stock/lander) |
@@ -30,4 +29,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
 | [Portobello](https://farer.com/products/portobello) | 12 | [`portobello`](./stock/portobello) |
 | [Stanhope II](https://farer.com/products/stanhope) | 14 | [`stanhope`](./stock/stanhope) |
-| **Total** | **740** | |
+| **Total** | **739** | |
