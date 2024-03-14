@@ -9,6 +9,7 @@ PRODUCTS_LIST_URL = FARER_URL + "/products.json"
 PRODUCT_URL_BASE = FARER_URL + "/products/"
 
 STOCK_PATH = pathlib.Path("stock")
+STOCK_PATH.mkdir(exist_ok=True)
 
 README_CONTENT = """# farer-stock-tracker
 
