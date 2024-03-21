@@ -1,12 +1,11 @@
 import pathlib
-from typing import cast
 
 import requests
-from bs4 import BeautifulSoup, ResultSet, Tag
 
 FARER_URL = "https://farer.com"
 PRODUCTS_LIST_URL = FARER_URL + "/products.json"
 PRODUCT_URL_BASE = FARER_URL + "/products/"
+HANDLE_AVAILABILITY_URL = "https://zepto-numbering-app.com/api/codes"
 
 STOCK_PATH = pathlib.Path("stock")
 STOCK_PATH.mkdir(exist_ok=True)
@@ -43,6 +42,8 @@ def get_watches() -> list[tuple[str, str]]:
                                     word.strip()
                                     for word in product["title"]
                                     .replace("<br>", " - ")
+                                    .replace("<b>", "")
+                                    .replace("</b>", "")
                                     .split(" ")
                                     if word.strip()
                                 ]
@@ -61,17 +62,15 @@ def get_watches() -> list[tuple[str, str]]:
     return watches
 
 
+def get_handle_availability(handle: str) -> list[str]:
+    availability_resp = requests.post(HANDLE_AVAILABILITY_URL, json={"handle": handle})
+    return [str(i) for i in availability_resp.json()["numbers"]]
+
+
 def get_product_stock(link: str) -> list[str]:
-    product_resp = requests.get(link)
-    product_soup = BeautifulSoup(product_resp.text, "html.parser")
-
-    uniq_num_select = cast(Tag | None, product_soup.find("select", id="uniq-num"))
-    if uniq_num_select is None:
-        print("No uniq-num select found for product")
-        return []
-
-    options = cast(ResultSet[Tag], uniq_num_select.find_all("option"))
-    return [cast(str, option.get("value")) for option in options if option.get("value")]
+    product_resp = requests.get(link + ".json")
+    handle = product_resp.json()["product"]["handle"]
+    return get_handle_availability(handle)
 
 
 print("Cleaning existing stock files")

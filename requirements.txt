@@ -4,10 +4,6 @@
 #
 #    pip-compile --strip-extras
 #
-beautifulsoup4==4.12.2
-    # via -r requirements.in
-black==23.11.0
-    # via -r requirements.in
 build==1.0.3
     # via pip-tools
 certifi==2023.11.17
@@ -15,41 +11,23 @@ certifi==2023.11.17
 charset-normalizer==3.3.2
     # via requests
 click==8.1.7
-    # via
-    #   black
-    #   pip-tools
+    # via pip-tools
 idna==3.4
     # via requests
-isort==5.12.0
-    # via -r requirements.in
 mypy==1.7.0
     # via -r requirements.in
 mypy-extensions==1.0.0
-    # via
-    #   black
-    #   mypy
+    # via mypy
 packaging==23.2
-    # via
-    #   black
-    #   build
-pathspec==0.11.2
-    # via black
+    # via build
 pip-tools==7.3.0
     # via -r requirements.in
-platformdirs==4.0.0
-    # via black
 pyproject-hooks==1.0.0
     # via build
 requests==2.31.0
     # via -r requirements.in
 ruff==0.3.2
     # via -r requirements.in
-soupsieve==2.5
-    # via beautifulsoup4
-types-beautifulsoup4==4.12.0.7
-    # via -r requirements.in
-types-html5lib==1.1.11.15
-    # via types-beautifulsoup4
 types-requests==2.31.0.10
     # via -r requirements.in
 typing-extensions==4.8.0
