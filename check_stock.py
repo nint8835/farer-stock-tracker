@@ -2,7 +2,7 @@ import pathlib
 
 import requests
 
-FARER_URL = "https://farer.com"
+FARER_URL = "https://usd.farer.com"
 PRODUCTS_LIST_URL = FARER_URL + "/products.json"
 PRODUCT_URL_BASE = FARER_URL + "/products/"
 HANDLE_AVAILABILITY_URL = "https://zepto-numbering-app.com/api/codes"
