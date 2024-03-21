@@ -1,5 +1,5 @@
 import pathlib
-from typing import Generator, cast
+from typing import cast
 
 import requests
 from bs4 import BeautifulSoup, ResultSet, Tag
