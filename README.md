@@ -25,7 +25,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 10 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 22 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 26 | [`london`](./stock/london) |
-| [MARKHAM II](https://usd.farer.com/products/markham) | 28 | [`markham`](./stock/markham) |
+| [MARKHAM II](https://usd.farer.com/products/markham) | 27 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 9 | [`mansfield`](./stock/mansfield) |
 | [Meredith GMT Limited Edition](https://usd.farer.com/products/meredith-gmt) | 1 | [`meredith-gmt`](./stock/meredith-gmt) |
 | [Milan](https://usd.farer.com/products/milan) | 48 | [`milan`](./stock/milan) |
@@ -33,4 +33,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 7 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 29 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 5 | [`stanhope`](./stock/stanhope) |
-| **Total** | **726** | |
+| **Total** | **725** | |
