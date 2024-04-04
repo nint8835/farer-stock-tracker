@@ -15,8 +15,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 66 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 22 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 49 | [`durham`](./stock/durham) |
-| [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 7 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
-| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 50 | [`endeavour`](./stock/endeavour) |
+| [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 6 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
+| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 49 | [`endeavour`](./stock/endeavour) |
 | [Foxe](https://usd.farer.com/products/foxe) | 61 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 100 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 51 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
@@ -33,5 +33,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 6 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 20 | [`portobello-black`](./stock/portobello-black) |
-| [Stanhope II](https://usd.farer.com/products/stanhope) | 46 | [`stanhope`](./stock/stanhope) |
-| **Total** | **871** | |
+| [Stanhope II](https://usd.farer.com/products/stanhope) | 45 | [`stanhope`](./stock/stanhope) |
+| **Total** | **868** | |
