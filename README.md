@@ -14,10 +14,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 66 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 22 | [`chalcot`](./stock/chalcot) |
-| [Durham](https://usd.farer.com/products/durham) | 49 | [`durham`](./stock/durham) |
+| [Durham](https://usd.farer.com/products/durham) | 48 | [`durham`](./stock/durham) |
 | [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 6 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 50 | [`endeavour`](./stock/endeavour) |
-| [Foxe](https://usd.farer.com/products/foxe) | 60 | [`foxe`](./stock/foxe) |
+| [Foxe](https://usd.farer.com/products/foxe) | 61 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 100 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 51 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 68 | [`lander`](./stock/lander) |
