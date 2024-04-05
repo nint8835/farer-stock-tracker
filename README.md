@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 50 | [`bernina-titanium`](./stock/bernina-titanium) |
+| [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 51 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 66 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 21 | [`chalcot`](./stock/chalcot) |
@@ -34,4 +34,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 6 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 19 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 46 | [`stanhope`](./stock/stanhope) |
-| **Total** | **864** | |
+| **Total** | **865** | |
