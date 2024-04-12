@@ -17,7 +17,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 64 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 14 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 46 | [`durham`](./stock/durham) |
-| [Eddington](https://usd.farer.com/products/eddington) | 123 | [`eddington`](./stock/eddington) |
+| [Eddington](https://usd.farer.com/products/eddington) | 122 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 48 | [`endeavour`](./stock/endeavour) |
 | [Foxe](https://usd.farer.com/products/foxe) | 12 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 72 | [`halley`](./stock/halley) |
@@ -35,5 +35,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 5 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 12 | [`portobello-black`](./stock/portobello-black) |
-| [Stanhope II](https://usd.farer.com/products/stanhope) | 38 | [`stanhope`](./stock/stanhope) |
+| [Stanhope II](https://usd.farer.com/products/stanhope) | 39 | [`stanhope`](./stock/stanhope) |
 | **Total** | **1031** | |
