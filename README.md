@@ -23,17 +23,17 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Halley](https://usd.farer.com/products/halley) | 64 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 48 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 67 | [`lander`](./stock/lander) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 38 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 37 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 23 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 55 | [`lander-sea-coast`](./stock/lander-sea-coast) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 8 | [`lethbridge`](./stock/lethbridge) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 7 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 18 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 24 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 19 | [`markham`](./stock/markham) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 4 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 3 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 47 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 9 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 4 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 11 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 39 | [`stanhope`](./stock/stanhope) |
-| **Total** | **980** | |
+| **Total** | **977** | |
