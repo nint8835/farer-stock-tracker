@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 52 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 51 | [`baily`](./stock/baily) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 51 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 97 | [`burbidge`](./stock/burbidge) |
@@ -20,7 +20,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Eddington](https://usd.farer.com/products/eddington) | 118 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 46 | [`endeavour`](./stock/endeavour) |
 | [Foxe](https://usd.farer.com/products/foxe) | 10 | [`foxe`](./stock/foxe) |
-| [Halley](https://usd.farer.com/products/halley) | 65 | [`halley`](./stock/halley) |
+| [Halley](https://usd.farer.com/products/halley) | 64 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 48 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 67 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 38 | [`lander-36mm`](./stock/lander-36mm) |
@@ -36,4 +36,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 4 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 11 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 39 | [`stanhope`](./stock/stanhope) |
-| **Total** | **988** | |
+| **Total** | **986** | |
