@@ -27,7 +27,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 22 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 54 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 8 | [`lethbridge`](./stock/lethbridge) |
-| [Lomond](https://usd.farer.com/products/lomond) | 15 | [`lomond`](./stock/lomond) |
+| [Lomond](https://usd.farer.com/products/lomond) | 14 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 23 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 13 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 47 | [`mansfield`](./stock/mansfield) |
@@ -36,4 +36,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 7 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 3 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 35 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1011** | |
+| **Total** | **1010** | |
