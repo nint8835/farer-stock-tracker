@@ -29,10 +29,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond](https://usd.farer.com/products/lomond) | 12 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 23 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 7 | [`markham`](./stock/markham) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 40 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 39 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 46 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 7 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 2 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 27 | [`stanhope`](./stock/stanhope) |
-| **Total** | **951** | |
+| **Total** | **950** | |
