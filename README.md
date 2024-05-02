@@ -10,14 +10,14 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 35 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 34 | [`baily`](./stock/baily) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 47 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 86 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 62 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 33 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 38 | [`durham`](./stock/durham) |
-| [Eddington](https://usd.farer.com/products/eddington) | 108 | [`eddington`](./stock/eddington) |
+| [Eddington](https://usd.farer.com/products/eddington) | 109 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 66 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 58 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 44 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
@@ -28,11 +28,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 7 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 10 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 21 | [`london`](./stock/london) |
-| [MARKHAM II](https://usd.farer.com/products/markham) | 2 | [`markham`](./stock/markham) |
+| [MARKHAM II](https://usd.farer.com/products/markham) | 3 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 37 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 45 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 6 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 2 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 26 | [`stanhope`](./stock/stanhope) |
-| **Total** | **915** | |
+| **Total** | **916** | |
