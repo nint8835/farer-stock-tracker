@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 33 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 32 | [`baily`](./stock/baily) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 46 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 86 | [`burbidge`](./stock/burbidge) |
@@ -29,7 +29,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond](https://usd.farer.com/products/lomond) | 10 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 21 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 3 | [`markham`](./stock/markham) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 36 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 37 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 45 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 6 | [`portobello`](./stock/portobello) |
