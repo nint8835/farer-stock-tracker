@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 29 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 27 | [`baily`](./stock/baily) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 46 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 83 | [`burbidge`](./stock/burbidge) |
@@ -18,14 +18,14 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 33 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 38 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 106 | [`eddington`](./stock/eddington) |
-| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 66 | [`endeavour`](./stock/endeavour) |
+| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 65 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 54 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 43 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
-| [Lander IV](https://usd.farer.com/products/lander) | 54 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 53 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 32 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 19 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 51 | [`lander-sea-coast`](./stock/lander-sea-coast) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 2 | [`lethbridge`](./stock/lethbridge) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 1 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 9 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 19 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 3 | [`markham`](./stock/markham) |
@@ -35,4 +35,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello](https://usd.farer.com/products/portobello) | 3 | [`portobello`](./stock/portobello) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 1 | [`portobello-black`](./stock/portobello-black) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 20 | [`stanhope`](./stock/stanhope) |
-| **Total** | **868** | |
+| **Total** | **863** | |
