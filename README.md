@@ -17,7 +17,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 62 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 32 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 36 | [`durham`](./stock/durham) |
-| [Eddington](https://usd.farer.com/products/eddington) | 105 | [`eddington`](./stock/eddington) |
+| [Eddington](https://usd.farer.com/products/eddington) | 104 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 66 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 54 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 42 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
@@ -25,7 +25,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 32 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 17 | [`lander-midnight`](./stock/lander-midnight) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 51 | [`lander-sea-coast`](./stock/lander-sea-coast) |
-| [Lomond](https://usd.farer.com/products/lomond) | 7 | [`lomond`](./stock/lomond) |
+| [Lomond](https://usd.farer.com/products/lomond) | 8 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 19 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 3 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 33 | [`mansfield`](./stock/mansfield) |
