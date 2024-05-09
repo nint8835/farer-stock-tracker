@@ -11,11 +11,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Baily](https://usd.farer.com/products/baily) | 27 | [`baily`](./stock/baily) |
-| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 85 | [`banzare`](./stock/banzare) |
+| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 83 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 46 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 81 | [`burbidge`](./stock/burbidge) |
-| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 61 | [`carnegie-titanium`](./stock/carnegie-titanium) |
+| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 62 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 32 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 36 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 103 | [`eddington`](./stock/eddington) |
@@ -33,5 +33,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 43 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Portobello](https://usd.farer.com/products/portobello) | 3 | [`portobello`](./stock/portobello) |
-| [Stanhope II](https://usd.farer.com/products/stanhope) | 18 | [`stanhope`](./stock/stanhope) |
-| **Total** | **927** | |
+| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 1 | [`portobello-black`](./stock/portobello-black) |
+| [Stanhope II](https://usd.farer.com/products/stanhope) | 19 | [`stanhope`](./stock/stanhope) |
+| **Total** | **928** | |
