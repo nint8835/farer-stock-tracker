@@ -28,9 +28,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 51 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lomond](https://usd.farer.com/products/lomond) | 6 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 17 | [`london`](./stock/london) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 29 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 30 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 43 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 11 | [`portobello-black`](./stock/portobello-black) |
-| [Stanhope II](https://usd.farer.com/products/stanhope) | 10 | [`stanhope`](./stock/stanhope) |
+| [Stanhope II](https://usd.farer.com/products/stanhope) | 9 | [`stanhope`](./stock/stanhope) |
 | **Total** | **838** | |
