@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Baily](https://usd.farer.com/products/baily) | 21 | [`baily`](./stock/baily) |
-| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 35 | [`banzare`](./stock/banzare) |
+| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 34 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 45 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 65 | [`burbidge`](./stock/burbidge) |
@@ -34,5 +34,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 43 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 16 | [`portobello-black`](./stock/portobello-black) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 26 | [`roche`](./stock/roche) |
-| **Total** | **971** | |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 25 | [`roche`](./stock/roche) |
+| **Total** | **969** | |
