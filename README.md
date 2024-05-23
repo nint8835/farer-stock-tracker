@@ -10,12 +10,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 21 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 20 | [`baily`](./stock/baily) |
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 34 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 45 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
-| [Burbidge](https://usd.farer.com/products/burbidge) | 65 | [`burbidge`](./stock/burbidge) |
-| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 59 | [`carnegie-titanium`](./stock/carnegie-titanium) |
+| [Burbidge](https://usd.farer.com/products/burbidge) | 64 | [`burbidge`](./stock/burbidge) |
+| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 60 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 31 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 30 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 99 | [`eddington`](./stock/eddington) |
@@ -31,8 +31,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [London](https://usd.farer.com/products/london) | 16 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 97 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 28 | [`mansfield`](./stock/mansfield) |
-| [Milan](https://usd.farer.com/products/milan) | 43 | [`milan`](./stock/milan) |
+| [Milan](https://usd.farer.com/products/milan) | 42 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 16 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 23 | [`roche`](./stock/roche) |
-| **Total** | **957** | |
+| **Total** | **955** | |
