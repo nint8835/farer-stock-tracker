@@ -33,6 +33,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Mansfield](https://usd.farer.com/products/mansfield) | 26 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 42 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
-| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 16 | [`portobello-black`](./stock/portobello-black) |
+| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 15 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 22 | [`roche`](./stock/roche) |
-| **Total** | **925** | |
+| **Total** | **924** | |
