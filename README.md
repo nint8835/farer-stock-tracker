@@ -14,12 +14,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 26 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 45 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
-| [Burbidge](https://usd.farer.com/products/burbidge) | 57 | [`burbidge`](./stock/burbidge) |
+| [Burbidge](https://usd.farer.com/products/burbidge) | 56 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 60 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 29 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 29 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 65 | [`eddington`](./stock/eddington) |
-| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 55 | [`endeavour`](./stock/endeavour) |
+| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 54 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 38 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 37 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 40 | [`lander`](./stock/lander) |
@@ -35,4 +35,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 14 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 12 | [`roche`](./stock/roche) |
 | [Stanhope II](https://usd.farer.com/products/stanhope) | 1 | [`stanhope`](./stock/stanhope) |
-| **Total** | **842** | |
+| **Total** | **840** | |
