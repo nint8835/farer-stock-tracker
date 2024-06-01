@@ -19,13 +19,13 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 29 | [`chalcot`](./stock/chalcot) |
 | [Durham](https://usd.farer.com/products/durham) | 29 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 65 | [`eddington`](./stock/eddington) |
-| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 54 | [`endeavour`](./stock/endeavour) |
+| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 53 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 38 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 36 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 40 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 25 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 50 | [`lander-sea-coast`](./stock/lander-sea-coast) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 38 | [`lethbridge`](./stock/lethbridge) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 39 | [`lethbridge`](./stock/lethbridge) |
 | [Lomond](https://usd.farer.com/products/lomond) | 2 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 15 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 91 | [`markham`](./stock/markham) |
