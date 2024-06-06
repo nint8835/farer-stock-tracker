@@ -25,8 +25,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV](https://usd.farer.com/products/lander) | 36 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 18 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 50 | [`lander-sea-coast`](./stock/lander-sea-coast) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 34 | [`lethbridge`](./stock/lethbridge) |
-| [Lomond](https://usd.farer.com/products/lomond) | 1 | [`lomond`](./stock/lomond) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 35 | [`lethbridge`](./stock/lethbridge) |
 | [London](https://usd.farer.com/products/london) | 14 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 90 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 21 | [`mansfield`](./stock/mansfield) |
