@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 13 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 12 | [`baily`](./stock/baily) |
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 22 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 45 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
@@ -22,7 +22,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 23 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 52 | [`endeavour`](./stock/endeavour) |
 | [Foxe](https://usd.farer.com/products/foxe) | 10 | [`foxe`](./stock/foxe) |
-| [Halley](https://usd.farer.com/products/halley) | 36 | [`halley`](./stock/halley) |
+| [Halley](https://usd.farer.com/products/halley) | 35 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 29 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 32 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 12 | [`lander-36mm`](./stock/lander-36mm) |
@@ -35,4 +35,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 11 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 8 | [`roche`](./stock/roche) |
-| **Total** | **806** | |
+| **Total** | **804** | |
