@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 7 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 6 | [`baily`](./stock/baily) |
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 19 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 41 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Bradfield](https://usd.farer.com/products/bradfield) | 10 | [`bradfield`](./stock/bradfield) |
@@ -37,4 +37,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 12 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 6 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 31 | [`segrave`](./stock/segrave) |
-| **Total** | **804** | |
+| **Total** | **803** | |
