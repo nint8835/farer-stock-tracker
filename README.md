@@ -25,9 +25,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Foxe](https://usd.farer.com/products/foxe) | 4 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 33 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 28 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
-| [Lander IV](https://usd.farer.com/products/lander) | 23 | [`lander`](./stock/lander) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 6 | [`lander-36mm`](./stock/lander-36mm) |
-| [Lander Midnight](https://usd.farer.com/products/lander-midnight) | 1 | [`lander-midnight`](./stock/lander-midnight) |
+| [Lander IV](https://usd.farer.com/products/lander) | 24 | [`lander`](./stock/lander) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 5 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 50 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 31 | [`lethbridge`](./stock/lethbridge) |
 | [London](https://usd.farer.com/products/london) | 21 | [`london`](./stock/london) |
@@ -38,4 +37,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 12 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 6 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 28 | [`segrave`](./stock/segrave) |
-| **Total** | **795** | |
+| **Total** | **794** | |
