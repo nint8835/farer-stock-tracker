@@ -20,7 +20,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 71 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 22 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 58 | [`eddington`](./stock/eddington) |
-| [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 19 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
+| [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 20 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 47 | [`endeavour`](./stock/endeavour) |
 | [Foxe](https://usd.farer.com/products/foxe) | 4 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 32 | [`halley`](./stock/halley) |
@@ -31,10 +31,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 31 | [`lethbridge`](./stock/lethbridge) |
 | [London](https://usd.farer.com/products/london) | 20 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 35 | [`markham`](./stock/markham) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 14 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 13 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 39 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 12 | [`portobello-black`](./stock/portobello-black) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 2 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 29 | [`segrave`](./stock/segrave) |
-| **Total** | **775** | |
+| **Total** | **776** | |
