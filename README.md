@@ -19,7 +19,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 70 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 22 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 58 | [`eddington`](./stock/eddington) |
-| [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 20 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
+| [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 19 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 45 | [`endeavour`](./stock/endeavour) |
 | [Foxe](https://usd.farer.com/products/foxe) | 4 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 32 | [`halley`](./stock/halley) |
@@ -36,4 +36,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 12 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 29 | [`segrave`](./stock/segrave) |
-| **Total** | **759** | |
+| **Total** | **758** | |
