@@ -35,5 +35,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 12 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
-| [Segrave III](https://usd.farer.com/products/segrave) | 28 | [`segrave`](./stock/segrave) |
-| **Total** | **757** | |
+| [Segrave III](https://usd.farer.com/products/segrave) | 29 | [`segrave`](./stock/segrave) |
+| **Total** | **758** | |
