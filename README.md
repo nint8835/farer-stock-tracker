@@ -32,8 +32,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [MARKHAM II](https://usd.farer.com/products/markham) | 35 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 13 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 39 | [`milan`](./stock/milan) |
-| [Paris](https://usd.farer.com/products/paris) | 20 | [`paris`](./stock/paris) |
+| [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 12 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 29 | [`segrave`](./stock/segrave) |
-| **Total** | **756** | |
+| **Total** | **757** | |
