@@ -11,13 +11,13 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Baily](https://usd.farer.com/products/baily) | 7 | [`baily`](./stock/baily) |
-| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 18 | [`banzare`](./stock/banzare) |
+| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 19 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 41 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 57 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 60 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 23 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 68 | [`cobb-iii`](./stock/cobb-iii) |
-| [Durham](https://usd.farer.com/products/durham) | 22 | [`durham`](./stock/durham) |
+| [Durham](https://usd.farer.com/products/durham) | 21 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 57 | [`eddington`](./stock/eddington) |
 | [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 20 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 45 | [`endeavour`](./stock/endeavour) |
