@@ -15,7 +15,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 41 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 57 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 60 | [`carnegie-titanium`](./stock/carnegie-titanium) |
-| [Chalcot](https://usd.farer.com/products/chalcot) | 22 | [`chalcot`](./stock/chalcot) |
+| [Chalcot](https://usd.farer.com/products/chalcot) | 23 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 68 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 22 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 56 | [`eddington`](./stock/eddington) |
@@ -25,7 +25,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Halley](https://usd.farer.com/products/halley) | 31 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 24 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 13 | [`lander`](./stock/lander) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 5 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 4 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 50 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 29 | [`lethbridge`](./stock/lethbridge) |
 | [London](https://usd.farer.com/products/london) | 19 | [`london`](./stock/london) |
