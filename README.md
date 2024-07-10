@@ -19,11 +19,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 63 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 20 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 54 | [`eddington`](./stock/eddington) |
-| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 44 | [`endeavour`](./stock/endeavour) |
+| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 43 | [`endeavour`](./stock/endeavour) |
 | [Foxe](https://usd.farer.com/products/foxe) | 3 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 30 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 18 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 9 | [`lander`](./stock/lander) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 1 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 49 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 30 | [`lethbridge`](./stock/lethbridge) |
 | [London](https://usd.farer.com/products/london) | 18 | [`london`](./stock/london) |
