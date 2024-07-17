@@ -18,9 +18,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 20 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 55 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 20 | [`durham`](./stock/durham) |
-| [Eddington](https://usd.farer.com/products/eddington) | 53 | [`eddington`](./stock/eddington) |
+| [Eddington](https://usd.farer.com/products/eddington) | 54 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 43 | [`endeavour`](./stock/endeavour) |
-| [Foxe](https://usd.farer.com/products/foxe) | 1 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 30 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 16 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 10 | [`lander`](./stock/lander) |
@@ -33,5 +32,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 9 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 22 | [`roche`](./stock/roche) |
-| [Segrave III](https://usd.farer.com/products/segrave) | 22 | [`segrave`](./stock/segrave) |
-| **Total** | **651** | |
+| [Segrave III](https://usd.farer.com/products/segrave) | 21 | [`segrave`](./stock/segrave) |
+| **Total** | **650** | |
