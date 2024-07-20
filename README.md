@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Baily](https://usd.farer.com/products/baily) | 3 | [`baily`](./stock/baily) |
-| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 6 | [`banzare`](./stock/banzare) |
+| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 7 | [`banzare`](./stock/banzare) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 41 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 48 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 55 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -27,11 +27,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 47 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 26 | [`lethbridge`](./stock/lethbridge) |
 | [London](https://usd.farer.com/products/london) | 16 | [`london`](./stock/london) |
-| [MARKHAM II](https://usd.farer.com/products/markham) | 33 | [`markham`](./stock/markham) |
+| [MARKHAM II](https://usd.farer.com/products/markham) | 34 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 8 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 37 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 7 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 22 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 20 | [`segrave`](./stock/segrave) |
-| **Total** | **629** | |
+| **Total** | **631** | |
