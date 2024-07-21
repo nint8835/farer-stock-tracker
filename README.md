@@ -21,7 +21,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Eddington](https://usd.farer.com/products/eddington) | 53 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 41 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 30 | [`halley`](./stock/halley) |
-| [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 14 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
+| [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 15 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 6 | [`lander`](./stock/lander) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 47 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 26 | [`lethbridge`](./stock/lethbridge) |
@@ -33,4 +33,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 7 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 22 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 20 | [`segrave`](./stock/segrave) |
-| **Total** | **625** | |
+| **Total** | **626** | |
