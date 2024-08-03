@@ -25,12 +25,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 45 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 20 | [`lethbridge`](./stock/lethbridge) |
 | [London](https://usd.farer.com/products/london) | 14 | [`london`](./stock/london) |
-| [MARKHAM II](https://usd.farer.com/products/markham) | 32 | [`markham`](./stock/markham) |
+| [MARKHAM II](https://usd.farer.com/products/markham) | 33 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 4 | [`mansfield`](./stock/mansfield) |
 | [Milan](https://usd.farer.com/products/milan) | 34 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 5 | [`portobello-black`](./stock/portobello-black) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 15 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 16 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 17 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 98 | [`stanhope`](./stock/stanhope) |
-| **Total** | **689** | |
+| **Total** | **691** | |
