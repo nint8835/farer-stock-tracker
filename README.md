@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 3 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 2 | [`baily`](./stock/baily) |
 | [Benham](https://usd.farer.com/products/benham) | 17 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 34 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 39 | [`burbidge`](./stock/burbidge) |
@@ -35,5 +35,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 3 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 12 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 13 | [`segrave`](./stock/segrave) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 90 | [`stanhope`](./stock/stanhope) |
-| **Total** | **850** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 89 | [`stanhope`](./stock/stanhope) |
+| **Total** | **848** | |
