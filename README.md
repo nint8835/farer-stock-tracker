@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Baily](https://usd.farer.com/products/baily) | 2 | [`baily`](./stock/baily) |
+| [Baily](https://usd.farer.com/products/baily) | 1 | [`baily`](./stock/baily) |
 | [Benham](https://usd.farer.com/products/benham) | 17 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 33 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 39 | [`burbidge`](./stock/burbidge) |
@@ -36,4 +36,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 11 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 13 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 90 | [`stanhope`](./stock/stanhope) |
-| **Total** | **841** | |
+| **Total** | **840** | |
