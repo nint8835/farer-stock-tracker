@@ -18,12 +18,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 17 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 44 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 14 | [`durham`](./stock/durham) |
-| [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 62 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
+| [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 63 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
 | [Eddington](https://usd.farer.com/products/eddington) | 43 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 35 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 23 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 12 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 48 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 47 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Sea Coast 36mm](https://usd.farer.com/products/lander-sea-coast) | 45 | [`lander-sea-coast`](./stock/lander-sea-coast) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 18 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 25 | [`lethbridge-gold`](./stock/lethbridge-gold) |
@@ -32,8 +32,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 90 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Milan](https://usd.farer.com/products/milan) | 34 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
-| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 2 | [`portobello-black`](./stock/portobello-black) |
+| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 1 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 11 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 13 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 89 | [`stanhope`](./stock/stanhope) |
-| **Total** | **832** | |
+| **Total** | **831** | |
