@@ -19,7 +19,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham](https://usd.farer.com/products/durham) | 13 | [`durham`](./stock/durham) |
 | [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 57 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
 | [Eddington](https://usd.farer.com/products/eddington) | 43 | [`eddington`](./stock/eddington) |
-| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 35 | [`endeavour`](./stock/endeavour) |
+| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 34 | [`endeavour`](./stock/endeavour) |
 | [Halley](https://usd.farer.com/products/halley) | 23 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 11 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 45 | [`lander-36mm`](./stock/lander-36mm) |
@@ -33,7 +33,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 34 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 2 | [`portobello-black`](./stock/portobello-black) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 9 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 10 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 11 | [`segrave`](./stock/segrave) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 89 | [`stanhope`](./stock/stanhope) |
-| **Total** | **857** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 88 | [`stanhope`](./stock/stanhope) |
+| **Total** | **856** | |
