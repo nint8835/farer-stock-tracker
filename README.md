@@ -10,8 +10,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 50 | [`banzare`](./stock/banzare) |
-| [Benham](https://usd.farer.com/products/benham) | 9 | [`benham`](./stock/benham) |
+| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 49 | [`banzare`](./stock/banzare) |
+| [Benham](https://usd.farer.com/products/benham) | 10 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 31 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 39 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 53 | [`carnegie-titanium`](./stock/carnegie-titanium) |
