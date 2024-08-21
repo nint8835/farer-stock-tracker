@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 49 | [`banzare`](./stock/banzare) |
-| [Benham](https://usd.farer.com/products/benham) | 10 | [`benham`](./stock/benham) |
+| [Benham](https://usd.farer.com/products/benham) | 9 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 31 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 39 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 53 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -24,7 +24,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Halley](https://usd.farer.com/products/halley) | 23 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 11 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 42 | [`lander-36mm`](./stock/lander-36mm) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 17 | [`lethbridge`](./stock/lethbridge) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 16 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 18 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [London](https://usd.farer.com/products/london) | 11 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 30 | [`markham`](./stock/markham) |
@@ -33,7 +33,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 33 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 14 | [`portobello-black`](./stock/portobello-black) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 8 | [`roche`](./stock/roche) |
-| [Segrave III](https://usd.farer.com/products/segrave) | 9 | [`segrave`](./stock/segrave) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 7 | [`roche`](./stock/roche) |
+| [Segrave III](https://usd.farer.com/products/segrave) | 8 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 85 | [`stanhope`](./stock/stanhope) |
-| **Total** | **824** | |
+| **Total** | **820** | |
