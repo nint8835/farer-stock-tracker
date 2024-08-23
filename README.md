@@ -16,7 +16,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Burbidge](https://usd.farer.com/products/burbidge) | 37 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 53 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 15 | [`chalcot`](./stock/chalcot) |
-| [Cobb III](https://usd.farer.com/products/cobb-iii) | 39 | [`cobb-iii`](./stock/cobb-iii) |
+| [Cobb III](https://usd.farer.com/products/cobb-iii) | 38 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 12 | [`durham`](./stock/durham) |
 | [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 45 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
 | [Eddington](https://usd.farer.com/products/eddington) | 41 | [`eddington`](./stock/eddington) |
@@ -28,7 +28,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 16 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 16 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [London](https://usd.farer.com/products/london) | 11 | [`london`](./stock/london) |
-| [MARKHAM II](https://usd.farer.com/products/markham) | 28 | [`markham`](./stock/markham) |
+| [MARKHAM II](https://usd.farer.com/products/markham) | 29 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 45 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 84 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Milan](https://usd.farer.com/products/milan) | 33 | [`milan`](./stock/milan) |
