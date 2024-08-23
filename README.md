@@ -18,7 +18,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 15 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 39 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 12 | [`durham`](./stock/durham) |
-| [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 44 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
+| [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 45 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
 | [Eddington](https://usd.farer.com/products/eddington) | 41 | [`eddington`](./stock/eddington) |
 | [Endeavour Ocean White Titanium Series II](https://usd.farer.com/products/endeavour-ocean-white) | 5 | [`endeavour-ocean-white`](./stock/endeavour-ocean-white) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 28 | [`endeavour`](./stock/endeavour) |
@@ -34,7 +34,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 33 | [`milan`](./stock/milan) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 14 | [`portobello-black`](./stock/portobello-black) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 7 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 8 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 8 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 84 | [`stanhope`](./stock/stanhope) |
-| **Total** | **801** | |
+| **Total** | **803** | |
