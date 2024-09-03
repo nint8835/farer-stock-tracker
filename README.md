@@ -36,5 +36,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 10 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 5 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 24 | [`segrave`](./stock/segrave) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 78 | [`stanhope`](./stock/stanhope) |
-| **Total** | **812** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 77 | [`stanhope`](./stock/stanhope) |
+| **Total** | **811** | |
