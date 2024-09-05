@@ -32,9 +32,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 83 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Milan](https://usd.farer.com/products/milan) | 33 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 63 | [`new-york`](./stock/new-york) |
-| [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
-| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 8 | [`portobello-black`](./stock/portobello-black) |
+| [Paris](https://usd.farer.com/products/paris) | 18 | [`paris`](./stock/paris) |
+| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 7 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 4 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 23 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 75 | [`stanhope`](./stock/stanhope) |
-| **Total** | **794** | |
+| **Total** | **790** | |
