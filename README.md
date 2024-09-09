@@ -24,7 +24,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Foxe](https://usd.farer.com/products/foxe) | 7 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 20 | [`halley`](./stock/halley) |
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 8 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 38 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 36 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 10 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 32 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [London](https://usd.farer.com/products/london) | 9 | [`london`](./stock/london) |
@@ -35,7 +35,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 61 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 21 | [`paris`](./stock/paris) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 7 | [`portobello-black`](./stock/portobello-black) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 4 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 5 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 23 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 74 | [`stanhope`](./stock/stanhope) |
-| **Total** | **795** | |
+| **Total** | **794** | |
