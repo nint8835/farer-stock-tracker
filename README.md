@@ -26,7 +26,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 4 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 32 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 9 | [`lethbridge`](./stock/lethbridge) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 24 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 25 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [London](https://usd.farer.com/products/london) | 9 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 21 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 43 | [`mansfield`](./stock/mansfield) |
@@ -38,4 +38,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 21 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 73 | [`stanhope`](./stock/stanhope) |
-| **Total** | **721** | |
+| **Total** | **722** | |
