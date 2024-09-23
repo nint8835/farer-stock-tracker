@@ -11,11 +11,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 29 | [`banzare`](./stock/banzare) |
-| [Benham](https://usd.farer.com/products/benham) | 16 | [`benham`](./stock/benham) |
+| [Benham](https://usd.farer.com/products/benham) | 26 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 28 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 23 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 51 | [`carnegie-titanium`](./stock/carnegie-titanium) |
-| [Chalcot](https://usd.farer.com/products/chalcot) | 13 | [`chalcot`](./stock/chalcot) |
+| [Chalcot](https://usd.farer.com/products/chalcot) | 19 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 31 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 4 | [`durham`](./stock/durham) |
 | [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 19 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
@@ -27,15 +27,15 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 28 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 11 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 20 | [`lethbridge-gold`](./stock/lethbridge-gold) |
-| [London](https://usd.farer.com/products/london) | 6 | [`london`](./stock/london) |
+| [London](https://usd.farer.com/products/london) | 5 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 20 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 41 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 77 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Milan](https://usd.farer.com/products/milan) | 31 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 56 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 20 | [`paris`](./stock/paris) |
-| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 5 | [`portobello-black`](./stock/portobello-black) |
+| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 7 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 19 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 69 | [`stanhope`](./stock/stanhope) |
-| **Total** | **694** | |
+| **Total** | **711** | |
