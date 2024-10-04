@@ -10,6 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
+| [Baily](https://usd.farer.com/products/baily) | 1 | [`baily`](./stock/baily) |
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 27 | [`banzare`](./stock/banzare) |
 | [Benham](https://usd.farer.com/products/benham) | 23 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 28 | [`bernina-titanium`](./stock/bernina-titanium) |
@@ -31,11 +32,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [MARKHAM II](https://usd.farer.com/products/markham) | 16 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 37 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 77 | [`mansfield-midnight`](./stock/mansfield-midnight) |
-| [Milan](https://usd.farer.com/products/milan) | 30 | [`milan`](./stock/milan) |
+| [Milan](https://usd.farer.com/products/milan) | 29 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 52 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 20 | [`paris`](./stock/paris) |
-| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 4 | [`portobello-black`](./stock/portobello-black) |
+| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 5 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 19 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 64 | [`stanhope`](./stock/stanhope) |
-| **Total** | **802** | |
+| **Total** | **803** | |
