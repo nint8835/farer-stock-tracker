@@ -22,7 +22,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 15 | [`endeavour`](./stock/endeavour) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 117 | [`exmoor`](./stock/exmoor) |
 | [Halley](https://usd.farer.com/products/halley) | 9 | [`halley`](./stock/halley) |
-| [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 9 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
+| [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 10 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
 | [Lander IV](https://usd.farer.com/products/lander) | 74 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 70 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 13 | [`lander-36mm`](./stock/lander-36mm) |
@@ -39,4 +39,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 110 | [`pembroke`](./stock/pembroke) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 14 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 57 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1065** | |
+| **Total** | **1066** | |
