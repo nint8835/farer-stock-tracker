@@ -16,7 +16,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Burbidge](https://usd.farer.com/products/burbidge) | 17 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 49 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 15 | [`chalcot`](./stock/chalcot) |
-| [Cobb III](https://usd.farer.com/products/cobb-iii) | 15 | [`cobb-iii`](./stock/cobb-iii) |
+| [Cobb III](https://usd.farer.com/products/cobb-iii) | 14 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 1 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 27 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 11 | [`endeavour`](./stock/endeavour) |
@@ -37,8 +37,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 49 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 18 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 91 | [`pembroke`](./stock/pembroke) |
-| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 1 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 1 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 33 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 53 | [`stanhope`](./stock/stanhope) |
-| **Total** | **968** | |
+| **Total** | **966** | |
