@@ -26,8 +26,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV](https://usd.farer.com/products/lander) | 65 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 63 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 38 | [`lander-36mm`](./stock/lander-36mm) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 1 | [`lethbridge`](./stock/lethbridge) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 17 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 2 | [`lethbridge`](./stock/lethbridge) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 16 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 87 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 10 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 12 | [`markham`](./stock/markham) |
