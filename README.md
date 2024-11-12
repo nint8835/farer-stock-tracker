@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 10 | [`banzare`](./stock/banzare) |
+| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 9 | [`banzare`](./stock/banzare) |
 | [Benham](https://usd.farer.com/products/benham) | 13 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 24 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 27 | [`burbidge`](./stock/burbidge) |
@@ -29,7 +29,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 1 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge - Eastern Arabic Limited Edition](https://usd.farer.com/products/lethbridge-eastern-arabic-edition) | 3 | [`lethbridge-eastern-arabic-edition`](./stock/lethbridge-eastern-arabic-edition) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 10 | [`lethbridge-gold`](./stock/lethbridge-gold) |
-| [Lomond II](https://usd.farer.com/products/lomond) | 81 | [`lomond`](./stock/lomond) |
+| [Lomond II](https://usd.farer.com/products/lomond) | 80 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 10 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 9 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 31 | [`mansfield`](./stock/mansfield) |
@@ -38,8 +38,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 47 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 18 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 82 | [`pembroke`](./stock/pembroke) |
-| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 2 | [`portobello-black`](./stock/portobello-black) |
+| [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 1 | [`portobello-black`](./stock/portobello-black) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 22 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 31 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 51 | [`stanhope`](./stock/stanhope) |
-| **Total** | **979** | |
+| **Total** | **976** | |
