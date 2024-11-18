@@ -23,19 +23,19 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 97 | [`exmoor`](./stock/exmoor) |
 | [Lander IV](https://usd.farer.com/products/lander) | 61 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 55 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 33 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 31 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lethbridge - Eastern Arabic Limited Edition](https://usd.farer.com/products/lethbridge-eastern-arabic-edition) | 7 | [`lethbridge-eastern-arabic-edition`](./stock/lethbridge-eastern-arabic-edition) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 8 | [`lethbridge-gold`](./stock/lethbridge-gold) |
-| [Lomond II](https://usd.farer.com/products/lomond) | 76 | [`lomond`](./stock/lomond) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 7 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lomond II](https://usd.farer.com/products/lomond) | 75 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 10 | [`london`](./stock/london) |
-| [MARKHAM II](https://usd.farer.com/products/markham) | 9 | [`markham`](./stock/markham) |
+| [MARKHAM II](https://usd.farer.com/products/markham) | 8 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 31 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 69 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Milan](https://usd.farer.com/products/milan) | 28 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 45 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 18 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 81 | [`pembroke`](./stock/pembroke) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 21 | [`roche`](./stock/roche) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 80 | [`pembroke`](./stock/pembroke) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 20 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 31 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 48 | [`stanhope`](./stock/stanhope) |
-| **Total** | **950** | |
+| **Total** | **943** | |
