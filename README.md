@@ -21,11 +21,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Eddington](https://usd.farer.com/products/eddington) | 36 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 10 | [`endeavour`](./stock/endeavour) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 97 | [`exmoor`](./stock/exmoor) |
-| [Lander IV](https://usd.farer.com/products/lander) | 60 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 59 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 53 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 31 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lethbridge - Eastern Arabic Limited Edition](https://usd.farer.com/products/lethbridge-eastern-arabic-edition) | 5 | [`lethbridge-eastern-arabic-edition`](./stock/lethbridge-eastern-arabic-edition) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 7 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 8 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 76 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 29 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 8 | [`markham`](./stock/markham) |
