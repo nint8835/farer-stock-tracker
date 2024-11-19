@@ -21,8 +21,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Eddington](https://usd.farer.com/products/eddington) | 36 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 10 | [`endeavour`](./stock/endeavour) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 97 | [`exmoor`](./stock/exmoor) |
-| [Hecla Carmine Red Titanium Series II](https://usd.farer.com/products/hecla-carmine-red) | 1 | [`hecla-carmine-red`](./stock/hecla-carmine-red) |
-| [Lander IV](https://usd.farer.com/products/lander) | 61 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 60 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 53 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 31 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lethbridge - Eastern Arabic Limited Edition](https://usd.farer.com/products/lethbridge-eastern-arabic-edition) | 5 | [`lethbridge-eastern-arabic-edition`](./stock/lethbridge-eastern-arabic-edition) |
@@ -36,7 +35,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 45 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 18 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 81 | [`pembroke`](./stock/pembroke) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 20 | [`roche`](./stock/roche) |
-| [Segrave III](https://usd.farer.com/products/segrave) | 30 | [`segrave`](./stock/segrave) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 19 | [`roche`](./stock/roche) |
+| [Segrave III](https://usd.farer.com/products/segrave) | 29 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 48 | [`stanhope`](./stock/stanhope) |
-| **Total** | **952** | |
+| **Total** | **948** | |
