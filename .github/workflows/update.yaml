@@ -27,6 +27,8 @@ jobs:
 
       - name: Fetch updated stock
         run: python check_stock.py
+        env:
+          NOTIFICATION_WEBHOOK_URL: ${{ secrets.NOTIFICATION_WEBHOOK_URL }}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

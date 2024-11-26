@@ -1,6 +1,13 @@
+import json
+import os
 import pathlib
 
+import dotenv
 import requests
+
+dotenv.load_dotenv()
+
+notification_webhook = os.environ["NOTIFICATION_WEBHOOK_URL"]
 
 FARER_URL = "https://usd.farer.com"
 PRODUCTS_LIST_URL = FARER_URL + "/products.json"
@@ -73,6 +80,10 @@ def get_product_stock(link: str) -> list[str]:
     return get_handle_availability(handle)
 
 
+with open("seen.json") as f:
+    seen_watches = set(json.load(f))
+
+
 print("Cleaning existing stock files")
 for file in STOCK_PATH.iterdir():
     file.unlink()
@@ -80,6 +91,17 @@ for file in STOCK_PATH.iterdir():
 total_stock = 0
 
 for watch_name, watch_slug in get_watches():
+    if watch_slug not in seen_watches:
+        print(f"New watch found: {watch_name}")
+        seen_watches.add(watch_slug)
+
+        requests.post(
+            notification_webhook,
+            json={
+                "content": f"New watch found on Farer's site: [{watch_name}]({PRODUCT_URL_BASE + watch_slug})"
+            },
+        )
+
     print(f"Getting availability for {watch_name}")
     stock = get_product_stock(PRODUCT_URL_BASE + watch_slug)
 
@@ -98,3 +120,6 @@ README_CONTENT += f"| **Total** | **{total_stock}** | |\n"
 
 with open("README.md", "w") as f:
     f.write(README_CONTENT)
+
+with open("seen.json", "w") as f:
+    json.dump(sorted(list(seen_watches)), f, indent=2)
