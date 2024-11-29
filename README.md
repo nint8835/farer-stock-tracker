@@ -16,7 +16,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Burbidge](https://usd.farer.com/products/burbidge) | 17 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 45 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 10 | [`chalcot`](./stock/chalcot) |
-| [Cobb III](https://usd.farer.com/products/cobb-iii) | 12 | [`cobb-iii`](./stock/cobb-iii) |
+| [Cobb III](https://usd.farer.com/products/cobb-iii) | 11 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 50 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 34 | [`eddington`](./stock/eddington) |
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 5 | [`endeavour`](./stock/endeavour) |
@@ -36,5 +36,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 74 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 16 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 30 | [`segrave`](./stock/segrave) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 47 | [`stanhope`](./stock/stanhope) |
-| **Total** | **893** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 46 | [`stanhope`](./stock/stanhope) |
+| **Total** | **891** | |
