@@ -15,7 +15,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 22 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 17 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 45 | [`carnegie-titanium`](./stock/carnegie-titanium) |
-| [Chalcot](https://usd.farer.com/products/chalcot) | 10 | [`chalcot`](./stock/chalcot) |
+| [Chalcot](https://usd.farer.com/products/chalcot) | 9 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 12 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 50 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 34 | [`eddington`](./stock/eddington) |
@@ -23,8 +23,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 94 | [`exmoor`](./stock/exmoor) |
 | [Lander IV](https://usd.farer.com/products/lander) | 56 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 50 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 30 | [`lander-36mm`](./stock/lander-36mm) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 5 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 29 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 4 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 71 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 27 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 4 | [`markham`](./stock/markham) |
@@ -37,4 +37,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 16 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 30 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 47 | [`stanhope`](./stock/stanhope) |
-| **Total** | **891** | |
+| **Total** | **888** | |
