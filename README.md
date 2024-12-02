@@ -15,7 +15,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 21 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 16 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 45 | [`carnegie-titanium`](./stock/carnegie-titanium) |
-| [Chalcot](https://usd.farer.com/products/chalcot) | 8 | [`chalcot`](./stock/chalcot) |
+| [Chalcot](https://usd.farer.com/products/chalcot) | 7 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 11 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 50 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 34 | [`eddington`](./stock/eddington) |
@@ -24,7 +24,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV](https://usd.farer.com/products/lander) | 55 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 28 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 3 | [`lethbridge-gold`](./stock/lethbridge-gold) |
-| [Lomond II](https://usd.farer.com/products/lomond) | 69 | [`lomond`](./stock/lomond) |
+| [Lomond II](https://usd.farer.com/products/lomond) | 68 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 27 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 4 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 27 | [`mansfield`](./stock/mansfield) |
@@ -36,4 +36,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 15 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 30 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 43 | [`stanhope`](./stock/stanhope) |
-| **Total** | **812** | |
+| **Total** | **810** | |
