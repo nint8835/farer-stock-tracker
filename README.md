@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 2 | [`banzare`](./stock/banzare) |
+| [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 1 | [`banzare`](./stock/banzare) |
 | [Benham](https://usd.farer.com/products/benham) | 7 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 21 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge](https://usd.farer.com/products/burbidge) | 17 | [`burbidge`](./stock/burbidge) |
@@ -29,7 +29,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [London](https://usd.farer.com/products/london) | 27 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 4 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 28 | [`mansfield`](./stock/mansfield) |
-| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 65 | [`mansfield-midnight`](./stock/mansfield-midnight) |
+| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 66 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Milan](https://usd.farer.com/products/milan) | 25 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 44 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 20 | [`paris`](./stock/paris) |
