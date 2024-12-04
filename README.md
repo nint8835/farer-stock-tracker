@@ -13,7 +13,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Banzare Limited Edition](https://usd.farer.com/products/banzare) | 1 | [`banzare`](./stock/banzare) |
 | [Benham](https://usd.farer.com/products/benham) | 2 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 21 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Burbidge](https://usd.farer.com/products/burbidge) | 14 | [`burbidge`](./stock/burbidge) |
+| [Burbidge](https://usd.farer.com/products/burbidge) | 13 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 45 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 7 | [`chalcot`](./stock/chalcot) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 11 | [`cobb-iii`](./stock/cobb-iii) |
@@ -24,6 +24,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV](https://usd.farer.com/products/lander) | 55 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 27 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 75 | [`lander-kano`](./stock/lander-kano) |
+| [Lethbridge](https://usd.farer.com/products/lethbridge) | 1 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 3 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 67 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 27 | [`london`](./stock/london) |
