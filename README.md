@@ -24,6 +24,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 48 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 24 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 63 | [`lander-kano`](./stock/lander-kano) |
+| [Lethbridge - Eastern Arabic Limited Edition](https://usd.farer.com/products/lethbridge-eastern-arabic-edition) | 1 | [`lethbridge-eastern-arabic-edition`](./stock/lethbridge-eastern-arabic-edition) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 2 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 55 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 26 | [`london`](./stock/london) |
@@ -35,6 +36,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 18 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 65 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 14 | [`roche`](./stock/roche) |
-| [Segrave III](https://usd.farer.com/products/segrave) | 30 | [`segrave`](./stock/segrave) |
+| [Segrave III](https://usd.farer.com/products/segrave) | 29 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 36 | [`stanhope`](./stock/stanhope) |
 | **Total** | **904** | |
