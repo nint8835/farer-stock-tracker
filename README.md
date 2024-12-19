@@ -35,5 +35,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 61 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 14 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 29 | [`segrave`](./stock/segrave) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 31 | [`stanhope`](./stock/stanhope) |
-| **Total** | **848** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 30 | [`stanhope`](./stock/stanhope) |
+| **Total** | **847** | |
