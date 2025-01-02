@@ -18,6 +18,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 2 | [`cobb-iii`](./stock/cobb-iii) |
 | [Durham](https://usd.farer.com/products/durham) | 46 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 29 | [`eddington`](./stock/eddington) |
+| [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 3 | [`endeavour`](./stock/endeavour) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 75 | [`exmoor`](./stock/exmoor) |
 | [Lander IV](https://usd.farer.com/products/lander) | 33 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 37 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
@@ -35,4 +36,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 12 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 26 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 27 | [`stanhope`](./stock/stanhope) |
-| **Total** | **780** | |
+| **Total** | **783** | |
