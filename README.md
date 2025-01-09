@@ -20,7 +20,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour Titanium Series II](https://usd.farer.com/products/endeavour) | 1 | [`endeavour`](./stock/endeavour) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 72 | [`exmoor`](./stock/exmoor) |
 | [Foxe](https://usd.farer.com/products/foxe) | 99 | [`foxe`](./stock/foxe) |
-| [Lander IV](https://usd.farer.com/products/lander) | 28 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 27 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Edition](https://usd.farer.com/products/eastern-arabic-lander) | 36 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 13 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 54 | [`lander-kano`](./stock/lander-kano) |
@@ -35,5 +35,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 47 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 10 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 26 | [`segrave`](./stock/segrave) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 24 | [`stanhope`](./stock/stanhope) |
-| **Total** | **839** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 23 | [`stanhope`](./stock/stanhope) |
+| **Total** | **837** | |
