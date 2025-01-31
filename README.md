@@ -19,13 +19,13 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 71 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 38 | [`durham`](./stock/durham) |
 | [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 1 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
-| [Eddington](https://usd.farer.com/products/eddington) | 24 | [`eddington`](./stock/eddington) |
+| [Eddington](https://usd.farer.com/products/eddington) | 23 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 68 | [`exmoor`](./stock/exmoor) |
 | [Foxe](https://usd.farer.com/products/foxe) | 83 | [`foxe`](./stock/foxe) |
 | [Lander IV](https://usd.farer.com/products/lander) | 10 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Final Edition](https://usd.farer.com/products/eastern-arabic-lander) | 27 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 8 | [`lander-36mm`](./stock/lander-36mm) |
-| [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 47 | [`lander-kano`](./stock/lander-kano) |
+| [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 48 | [`lander-kano`](./stock/lander-kano) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 34 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 24 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 36 | [`markham`](./stock/markham) |
