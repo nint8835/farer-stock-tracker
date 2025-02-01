@@ -18,7 +18,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 63 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 71 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 38 | [`durham`](./stock/durham) |
-| [Durham Pullman - Eastern Arabic Limited Edition](https://usd.farer.com/products/durham-pullman-eastern-arabic-edition) | 1 | [`durham-pullman-eastern-arabic-edition`](./stock/durham-pullman-eastern-arabic-edition) |
 | [Eddington](https://usd.farer.com/products/eddington) | 23 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 68 | [`exmoor`](./stock/exmoor) |
 | [Foxe](https://usd.farer.com/products/foxe) | 83 | [`foxe`](./stock/foxe) |
@@ -38,5 +37,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 17 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 33 | [`pembroke`](./stock/pembroke) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 23 | [`segrave`](./stock/segrave) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 15 | [`stanhope`](./stock/stanhope) |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 16 | [`stanhope`](./stock/stanhope) |
 | **Total** | **1006** | |
