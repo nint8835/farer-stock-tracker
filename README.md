@@ -15,14 +15,14 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Burbidge](https://usd.farer.com/products/burbidge) | 1 | [`burbidge`](./stock/burbidge) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 39 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 5 | [`chalcot`](./stock/chalcot) |
-| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 58 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
+| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 59 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 69 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 37 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 23 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 68 | [`exmoor`](./stock/exmoor) |
 | [Foxe](https://usd.farer.com/products/foxe) | 72 | [`foxe`](./stock/foxe) |
 | [Lander IV](https://usd.farer.com/products/lander) | 2 | [`lander`](./stock/lander) |
-| [Lander IV - Eastern Arabic Final Edition](https://usd.farer.com/products/eastern-arabic-lander) | 22 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
+| [Lander IV - Eastern Arabic Final Edition](https://usd.farer.com/products/eastern-arabic-lander) | 21 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 13 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 46 | [`lander-kano`](./stock/lander-kano) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 31 | [`lomond`](./stock/lomond) |
