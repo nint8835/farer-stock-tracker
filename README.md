@@ -15,7 +15,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 39 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 5 | [`chalcot`](./stock/chalcot) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 57 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
-| [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 68 | [`crooms-40mm`](./stock/crooms-40mm) |
+| [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 67 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 35 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 23 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 67 | [`exmoor`](./stock/exmoor) |
@@ -38,4 +38,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 90 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 22 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 9 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1014** | |
+| **Total** | **1013** | |
