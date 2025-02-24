@@ -33,10 +33,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 73 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 21 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 36 | [`new-york`](./stock/new-york) |
-| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 78 | [`palmer-36mm`](./stock/palmer-36mm) |
+| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 77 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 16 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 25 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 85 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 21 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 5 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1178** | |
+| **Total** | **1177** | |
