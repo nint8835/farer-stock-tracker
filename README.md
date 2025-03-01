@@ -14,7 +14,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 15 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 47 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot](https://usd.farer.com/products/chalcot) | 16 | [`chalcot`](./stock/chalcot) |
-| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 50 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
+| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 49 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 64 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 32 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 21 | [`eddington`](./stock/eddington) |
@@ -28,7 +28,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [London](https://usd.farer.com/products/london) | 25 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 24 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 19 | [`mansfield`](./stock/mansfield) |
-| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 51 | [`mansfield-midnight`](./stock/mansfield-midnight) |
+| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 52 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 81 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 72 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 21 | [`milan`](./stock/milan) |
