@@ -16,7 +16,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot](https://usd.farer.com/products/chalcot) | 15 | [`chalcot`](./stock/chalcot) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 48 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Cobb III](https://usd.farer.com/products/cobb-iii) | 45 | [`cobb-iii`](./stock/cobb-iii) |
-| [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 64 | [`crooms-40mm`](./stock/crooms-40mm) |
+| [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 63 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 31 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 21 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 64 | [`exmoor`](./stock/exmoor) |
@@ -34,10 +34,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 71 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 21 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 35 | [`new-york`](./stock/new-york) |
-| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 69 | [`palmer-36mm`](./stock/palmer-36mm) |
+| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 68 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 15 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 27 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 77 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 21 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 7 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1181** | |
+| **Total** | **1179** | |
