@@ -19,7 +19,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 62 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 31 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 16 | [`eddington`](./stock/eddington) |
-| [Exmoor II](https://usd.farer.com/products/exmoor) | 61 | [`exmoor`](./stock/exmoor) |
+| [Exmoor II](https://usd.farer.com/products/exmoor) | 62 | [`exmoor`](./stock/exmoor) |
 | [Foxe](https://usd.farer.com/products/foxe) | 53 | [`foxe`](./stock/foxe) |
 | [Lander IV](https://usd.farer.com/products/lander) | 96 | [`lander`](./stock/lander) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 4 | [`lander-36mm`](./stock/lander-36mm) |
@@ -33,7 +33,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 69 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 20 | [`milan`](./stock/milan) |
 | [New York](https://usd.farer.com/products/new-york) | 35 | [`new-york`](./stock/new-york) |
-| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 55 | [`palmer-36mm`](./stock/palmer-36mm) |
+| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 54 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 15 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 19 | [`pembroke`](./stock/pembroke) |
 | [Portobello Black Limited Edition](https://usd.farer.com/products/portobello-black) | 1 | [`portobello-black`](./stock/portobello-black) |
