@@ -10,12 +10,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Benham - Final Edition](https://usd.farer.com/products/benham) | 13 | [`benham`](./stock/benham) |
+| [Benham - Final Edition](https://usd.farer.com/products/benham) | 14 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 12 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 25 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 15 | [`chalcot`](./stock/chalcot) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 46 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
-| [Cobb III - Final Edition](https://usd.farer.com/products/cobb-iii) | 2 | [`cobb-iii`](./stock/cobb-iii) |
+| [Cobb III - Final Edition](https://usd.farer.com/products/cobb-iii) | 1 | [`cobb-iii`](./stock/cobb-iii) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 62 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 31 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 15 | [`eddington`](./stock/eddington) |
