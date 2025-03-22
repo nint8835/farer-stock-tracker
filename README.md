@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Benham - Final Edition](https://usd.farer.com/products/benham) | 14 | [`benham`](./stock/benham) |
+| [Benham - Final Edition](https://usd.farer.com/products/benham) | 13 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 12 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 25 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 15 | [`chalcot`](./stock/chalcot) |
@@ -39,4 +39,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 72 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 18 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 2 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1033** | |
+| **Total** | **1032** | |
