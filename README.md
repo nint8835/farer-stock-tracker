@@ -19,7 +19,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham](https://usd.farer.com/products/durham) | 30 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 10 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 60 | [`exmoor`](./stock/exmoor) |
-| [Foxe](https://usd.farer.com/products/foxe) | 48 | [`foxe`](./stock/foxe) |
+| [Foxe](https://usd.farer.com/products/foxe) | 47 | [`foxe`](./stock/foxe) |
 | [Lander IV](https://usd.farer.com/products/lander) | 95 | [`lander`](./stock/lander) |
 | [Lander IV - Eastern Arabic Final Edition](https://usd.farer.com/products/eastern-arabic-lander) | 1 | [`eastern-arabic-lander`](./stock/eastern-arabic-lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 31 | [`lander-kano`](./stock/lander-kano) |
@@ -36,6 +36,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 48 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 15 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 14 | [`pembroke`](./stock/pembroke) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 67 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 66 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 18 | [`segrave`](./stock/segrave) |
-| **Total** | **969** | |
+| **Total** | **967** | |
