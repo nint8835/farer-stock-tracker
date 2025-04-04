@@ -12,14 +12,14 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | ----- | --------: | -------------: |
 | [Benham - Final Edition](https://usd.farer.com/products/benham) | 8 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 11 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 22 | [`carnegie-titanium`](./stock/carnegie-titanium) |
+| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 23 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 11 | [`chalcot`](./stock/chalcot) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 45 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 60 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 27 | [`durham`](./stock/durham) |
 | [Eddington](https://usd.farer.com/products/eddington) | 7 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 55 | [`exmoor`](./stock/exmoor) |
-| [Foxe](https://usd.farer.com/products/foxe) | 44 | [`foxe`](./stock/foxe) |
+| [Foxe](https://usd.farer.com/products/foxe) | 43 | [`foxe`](./stock/foxe) |
 | [Lander IV](https://usd.farer.com/products/lander) | 94 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 30 | [`lander-kano`](./stock/lander-kano) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 5 | [`lomond`](./stock/lomond) |
@@ -34,8 +34,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 27 | [`new-york`](./stock/new-york) |
 | [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 44 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 15 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 12 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 14 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 64 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 16 | [`segrave`](./stock/segrave) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 2 | [`stanhope`](./stock/stanhope) |
-| **Total** | **897** | |
+| **Total** | **899** | |
