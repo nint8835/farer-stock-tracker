@@ -29,11 +29,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [London](https://usd.farer.com/products/london) | 21 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 2 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 3 | [`mansfield`](./stock/mansfield) |
-| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 41 | [`mansfield-midnight`](./stock/mansfield-midnight) |
+| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 42 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 72 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 67 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 17 | [`milan`](./stock/milan) |
-| [Moritz Green](https://usd.farer.com/products/moritz-green) | 42 | [`moritz-green`](./stock/moritz-green) |
+| [Moritz Green](https://usd.farer.com/products/moritz-green) | 41 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 25 | [`new-york`](./stock/new-york) |
 | [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 29 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 14 | [`paris`](./stock/paris) |
