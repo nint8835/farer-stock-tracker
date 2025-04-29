@@ -14,7 +14,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 9 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 20 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 9 | [`chalcot`](./stock/chalcot) |
-| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 44 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
+| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 45 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 58 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 23 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 92 | [`durham-pullman`](./stock/durham-pullman) |
@@ -30,7 +30,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Mansfield](https://usd.farer.com/products/mansfield) | 2 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 40 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 71 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
-| [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 67 | [`maze-40mm`](./stock/maze-40mm) |
+| [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 66 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 17 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 39 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 24 | [`new-york`](./stock/new-york) |
