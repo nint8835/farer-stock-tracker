@@ -21,9 +21,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Eddington - Final Edition](https://usd.farer.com/products/eddington) | 17 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 42 | [`exmoor`](./stock/exmoor) |
 | [Foxe](https://usd.farer.com/products/foxe) | 38 | [`foxe`](./stock/foxe) |
-| [Lander IV](https://usd.farer.com/products/lander) | 86 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 85 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 28 | [`lander-kano`](./stock/lander-kano) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 83 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 84 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 2 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 20 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 1 | [`markham`](./stock/markham) |
