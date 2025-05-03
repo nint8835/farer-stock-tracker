@@ -16,12 +16,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 9 | [`chalcot`](./stock/chalcot) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 45 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 58 | [`crooms-40mm`](./stock/crooms-40mm) |
-| [Durham](https://usd.farer.com/products/durham) | 22 | [`durham`](./stock/durham) |
+| [Durham](https://usd.farer.com/products/durham) | 21 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 92 | [`durham-pullman`](./stock/durham-pullman) |
 | [Eddington - Final Edition](https://usd.farer.com/products/eddington) | 17 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 42 | [`exmoor`](./stock/exmoor) |
 | [Foxe](https://usd.farer.com/products/foxe) | 37 | [`foxe`](./stock/foxe) |
-| [Lander IV](https://usd.farer.com/products/lander) | 85 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 86 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 28 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 82 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 1 | [`lomond`](./stock/lomond) |
