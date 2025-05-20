@@ -24,12 +24,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 40 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 79 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 36 | [`foxe`](./stock/foxe) |
-| [Lander IV](https://usd.farer.com/products/lander) | 73 | [`lander`](./stock/lander) |
+| [Lander IV](https://usd.farer.com/products/lander) | 74 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 23 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 79 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 61 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 7 | [`lomond`](./stock/lomond) |
-| [London](https://usd.farer.com/products/london) | 16 | [`london`](./stock/london) |
+| [London](https://usd.farer.com/products/london) | 15 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 2 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 46 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 36 | [`mansfield-midnight`](./stock/mansfield-midnight) |
