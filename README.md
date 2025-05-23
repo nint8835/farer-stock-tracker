@@ -20,9 +20,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 58 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 18 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 92 | [`durham-pullman`](./stock/durham-pullman) |
-| [Eddington - Final Edition](https://usd.farer.com/products/eddington) | 6 | [`eddington`](./stock/eddington) |
+| [Eddington - Final Edition](https://usd.farer.com/products/eddington) | 5 | [`eddington`](./stock/eddington) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 38 | [`exmoor`](./stock/exmoor) |
-| [Forrest](https://usd.farer.com/products/forrest) | 75 | [`forrest`](./stock/forrest) |
+| [Forrest](https://usd.farer.com/products/forrest) | 76 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 36 | [`foxe`](./stock/foxe) |
 | [Lander IV](https://usd.farer.com/products/lander) | 73 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 23 | [`lander-kano`](./stock/lander-kano) |
