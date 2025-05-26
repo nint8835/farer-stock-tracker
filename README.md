@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 55 | [`arber`](./stock/arber) |
-| [Balfour](https://usd.farer.com/products/balfour) | 68 | [`balfour`](./stock/balfour) |
+| [Balfour](https://usd.farer.com/products/balfour) | 69 | [`balfour`](./stock/balfour) |
 | [Benham - Final Edition](https://usd.farer.com/products/benham) | 1 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 6 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 18 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -29,9 +29,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 79 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 61 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 6 | [`lomond`](./stock/lomond) |
-| [London](https://usd.farer.com/products/london) | 16 | [`london`](./stock/london) |
+| [London](https://usd.farer.com/products/london) | 15 | [`london`](./stock/london) |
 | [MARKHAM II](https://usd.farer.com/products/markham) | 1 | [`markham`](./stock/markham) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 45 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 44 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 35 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 69 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 59 | [`maze-40mm`](./stock/maze-40mm) |
@@ -45,4 +45,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 14 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 83 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 93 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1320** | |
+| **Total** | **1319** | |
