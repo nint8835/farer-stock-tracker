@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Arber](https://usd.farer.com/products/arber) | 55 | [`arber`](./stock/arber) |
+| [Arber](https://usd.farer.com/products/arber) | 54 | [`arber`](./stock/arber) |
 | [Balfour](https://usd.farer.com/products/balfour) | 69 | [`balfour`](./stock/balfour) |
 | [Benham - Final Edition](https://usd.farer.com/products/benham) | 1 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 5 | [`bernina-titanium`](./stock/bernina-titanium) |
@@ -45,4 +45,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 14 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 83 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 93 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1315** | |
+| **Total** | **1314** | |
