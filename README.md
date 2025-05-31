@@ -41,9 +41,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 21 | [`new-york`](./stock/new-york) |
 | [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 6 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 3 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 4 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 50 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 13 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 79 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 93 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1291** | |
+| **Total** | **1292** | |
