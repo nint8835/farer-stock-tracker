@@ -14,7 +14,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Balfour](https://usd.farer.com/products/balfour) | 34 | [`balfour`](./stock/balfour) |
 | [Benham - Final Edition](https://usd.farer.com/products/benham) | 1 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 3 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 17 | [`carnegie-titanium`](./stock/carnegie-titanium) |
+| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 16 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 4 | [`chalcot`](./stock/chalcot) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 38 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 55 | [`crooms-40mm`](./stock/crooms-40mm) |
@@ -31,7 +31,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lindley](https://usd.farer.com/products/lindley) | 58 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 3 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 15 | [`london`](./stock/london) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 41 | [`mansfield`](./stock/mansfield) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 42 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 33 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 69 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 57 | [`maze-40mm`](./stock/maze-40mm) |
