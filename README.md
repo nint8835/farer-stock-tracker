@@ -15,12 +15,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 1 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 15 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 3 | [`chalcot`](./stock/chalcot) |
-| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 38 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
+| [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 37 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 55 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 17 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 89 | [`durham-pullman`](./stock/durham-pullman) |
 | [Eddington - Final Edition](https://usd.farer.com/products/eddington) | 4 | [`eddington`](./stock/eddington) |
-| [Exmoor II](https://usd.farer.com/products/exmoor) | 33 | [`exmoor`](./stock/exmoor) |
+| [Exmoor II](https://usd.farer.com/products/exmoor) | 34 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 57 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 31 | [`foxe`](./stock/foxe) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 94 | [`lander-36mm`](./stock/lander-36mm) |
