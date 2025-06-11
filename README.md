@@ -43,5 +43,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 49 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 10 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 77 | [`solander`](./stock/solander) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 91 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1340** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 90 | [`stanhope`](./stock/stanhope) |
+| **Total** | **1339** | |
