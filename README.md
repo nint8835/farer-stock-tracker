@@ -30,8 +30,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 20 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 75 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 57 | [`lindley`](./stock/lindley) |
-| [Lomond II](https://usd.farer.com/products/lomond) | 46 | [`lomond`](./stock/lomond) |
-| [London](https://usd.farer.com/products/london) | 14 | [`london`](./stock/london) |
+| [Lomond II](https://usd.farer.com/products/lomond) | 47 | [`lomond`](./stock/lomond) |
+| [London](https://usd.farer.com/products/london) | 15 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 42 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 32 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 66 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
@@ -46,4 +46,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 10 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 75 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 88 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1531** | |
+| **Total** | **1533** | |
