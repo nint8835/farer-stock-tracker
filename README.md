@@ -20,11 +20,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 88 | [`durham-pullman`](./stock/durham-pullman) |
 | [Eddington - Final Edition](https://usd.farer.com/products/eddington) | 3 | [`eddington`](./stock/eddington) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 91 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 65 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
+| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 64 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 33 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 57 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 31 | [`foxe`](./stock/foxe) |
-| [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 89 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
+| [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 88 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 91 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 60 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 20 | [`lander-kano`](./stock/lander-kano) |
@@ -39,11 +39,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 15 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 32 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 21 | [`new-york`](./stock/new-york) |
-| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 1 | [`palmer-36mm`](./stock/palmer-36mm) |
+| [Palmer 36mm - Limited Edition](https://usd.farer.com/products/palmer-36mm) | 2 | [`palmer-36mm`](./stock/palmer-36mm) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 82 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 48 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 10 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 75 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 89 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1562** | |
+| **Total** | **1561** | |
