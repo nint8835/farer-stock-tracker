@@ -40,9 +40,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 31 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 20 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 77 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 76 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 43 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 9 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 75 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 88 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1420** | |
+| **Total** | **1419** | |
