@@ -33,7 +33,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [MARKHAM II](https://usd.farer.com/products/markham) | 1 | [`markham`](./stock/markham) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 41 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 31 | [`mansfield-midnight`](./stock/mansfield-midnight) |
-| [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 65 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
+| [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 64 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 51 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 13 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 31 | [`moritz-green`](./stock/moritz-green) |
@@ -44,4 +44,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 8 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 75 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 88 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1387** | |
+| **Total** | **1386** | |
