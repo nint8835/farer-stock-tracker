@@ -29,7 +29,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 73 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 54 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 42 | [`lomond`](./stock/lomond) |
-| [London](https://usd.farer.com/products/london) | 12 | [`london`](./stock/london) |
+| [London](https://usd.farer.com/products/london) | 11 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 40 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 31 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 64 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
@@ -43,4 +43,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 7 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 74 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 88 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1374** | |
+| **Total** | **1373** | |
