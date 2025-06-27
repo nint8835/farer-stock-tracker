@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Arber](https://usd.farer.com/products/arber) | 18 | [`arber`](./stock/arber) |
+| [Arber](https://usd.farer.com/products/arber) | 19 | [`arber`](./stock/arber) |
 | [Balfour](https://usd.farer.com/products/balfour) | 21 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 10 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 13 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -20,7 +20,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham](https://usd.farer.com/products/durham) | 13 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 85 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 66 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 2 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 30 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 52 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 27 | [`foxe`](./stock/foxe) |
@@ -43,6 +42,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 74 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 39 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 7 | [`segrave`](./stock/segrave) |
-| [Solander](https://usd.farer.com/products/solander) | 72 | [`solander`](./stock/solander) |
+| [Solander](https://usd.farer.com/products/solander) | 73 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 87 | [`stanhope`](./stock/stanhope) |
 | **Total** | **1347** | |
