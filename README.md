@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Arber](https://usd.farer.com/products/arber) | 19 | [`arber`](./stock/arber) |
+| [Arber](https://usd.farer.com/products/arber) | 18 | [`arber`](./stock/arber) |
 | [Balfour](https://usd.farer.com/products/balfour) | 21 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 10 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 13 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -43,6 +43,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 74 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 39 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 7 | [`segrave`](./stock/segrave) |
-| [Solander](https://usd.farer.com/products/solander) | 73 | [`solander`](./stock/solander) |
+| [Solander](https://usd.farer.com/products/solander) | 72 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 87 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1349** | |
+| **Total** | **1347** | |
