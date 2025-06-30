@@ -14,12 +14,13 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Balfour](https://usd.farer.com/products/balfour) | 18 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 9 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 13 | [`carnegie-titanium`](./stock/carnegie-titanium) |
-| [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 3 | [`chalcot`](./stock/chalcot) |
+| [Chalcot - Limited Edition](https://usd.farer.com/products/chalcot) | 2 | [`chalcot`](./stock/chalcot) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 35 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 53 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 13 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 85 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 66 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
+| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 1 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 30 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 51 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 24 | [`foxe`](./stock/foxe) |
