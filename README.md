@@ -19,8 +19,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 54 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 12 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 84 | [`durham-pullman`](./stock/durham-pullman) |
-| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 64 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Exmoor II](https://usd.farer.com/products/exmoor) | 27 | [`exmoor`](./stock/exmoor) |
+| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 63 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
+| [Exmoor II](https://usd.farer.com/products/exmoor) | 28 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 50 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 24 | [`foxe`](./stock/foxe) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 58 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
