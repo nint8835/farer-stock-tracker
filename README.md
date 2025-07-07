@@ -22,7 +22,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 61 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 28 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 50 | [`forrest`](./stock/forrest) |
-| [Foxe](https://usd.farer.com/products/foxe) | 24 | [`foxe`](./stock/foxe) |
+| [Foxe](https://usd.farer.com/products/foxe) | 23 | [`foxe`](./stock/foxe) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 57 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 82 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 39 | [`lander`](./stock/lander) |
@@ -37,11 +37,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 50 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 12 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 30 | [`moritz-green`](./stock/moritz-green) |
-| [New York](https://usd.farer.com/products/new-york) | 16 | [`new-york`](./stock/new-york) |
+| [New York](https://usd.farer.com/products/new-york) | 15 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 70 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 37 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 7 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 71 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 84 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1375** | |
+| **Total** | **1373** | |
