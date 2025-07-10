@@ -29,7 +29,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 11 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 68 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 49 | [`lindley`](./stock/lindley) |
-| [Lomond II](https://usd.farer.com/products/lomond) | 38 | [`lomond`](./stock/lomond) |
+| [Lomond II](https://usd.farer.com/products/lomond) | 39 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 10 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 37 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 29 | [`mansfield-midnight`](./stock/mansfield-midnight) |
@@ -42,6 +42,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 70 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 35 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 6 | [`segrave`](./stock/segrave) |
-| [Solander](https://usd.farer.com/products/solander) | 69 | [`solander`](./stock/solander) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 82 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1330** | |
+| [Solander](https://usd.farer.com/products/solander) | 68 | [`solander`](./stock/solander) |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 81 | [`stanhope`](./stock/stanhope) |
+| **Total** | **1329** | |
