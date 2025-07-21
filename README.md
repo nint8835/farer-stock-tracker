@@ -37,10 +37,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 12 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 28 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 15 | [`new-york`](./stock/new-york) |
-| [Paris](https://usd.farer.com/products/paris) | 12 | [`paris`](./stock/paris) |
+| [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 66 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 29 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 5 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 62 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 76 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1176** | |
+| **Total** | **1177** | |
