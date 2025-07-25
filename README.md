@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Arber](https://usd.farer.com/products/arber) | 33 | [`arber`](./stock/arber) |
+| [Arber](https://usd.farer.com/products/arber) | 32 | [`arber`](./stock/arber) |
 | [Baily - Limited Run](https://usd.farer.com/products/baily) | 58 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 42 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 5 | [`bernina-titanium`](./stock/bernina-titanium) |
@@ -20,8 +20,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 53 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 10 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 81 | [`durham-pullman`](./stock/durham-pullman) |
-| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 1 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Exmoor II](https://usd.farer.com/products/exmoor) | 22 | [`exmoor`](./stock/exmoor) |
+| [Exmoor II](https://usd.farer.com/products/exmoor) | 21 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 49 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 19 | [`foxe`](./stock/foxe) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 73 | [`lander-36mm`](./stock/lander-36mm) |
@@ -30,9 +29,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 60 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 47 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 34 | [`lomond`](./stock/lomond) |
-| [London](https://usd.farer.com/products/london) | 9 | [`london`](./stock/london) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 28 | [`mansfield`](./stock/mansfield) |
-| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 26 | [`mansfield-midnight`](./stock/mansfield-midnight) |
+| [London](https://usd.farer.com/products/london) | 8 | [`london`](./stock/london) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 27 | [`mansfield`](./stock/mansfield) |
+| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 25 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 62 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 47 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 12 | [`milan`](./stock/milan) |
@@ -40,8 +39,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 15 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 65 | [`pembroke`](./stock/pembroke) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 27 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 26 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 4 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 61 | [`solander`](./stock/solander) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 76 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1136** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 75 | [`stanhope`](./stock/stanhope) |
+| **Total** | **1128** | |
