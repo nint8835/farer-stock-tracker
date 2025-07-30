@@ -11,8 +11,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 31 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 56 | [`baily`](./stock/baily) |
-| [Balfour](https://usd.farer.com/products/balfour) | 39 | [`balfour`](./stock/balfour) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 57 | [`baily`](./stock/baily) |
+| [Balfour](https://usd.farer.com/products/balfour) | 38 | [`balfour`](./stock/balfour) |
 | [Benham - Final Edition](https://usd.farer.com/products/benham) | 1 | [`benham`](./stock/benham) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 5 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 10 | [`carnegie-titanium`](./stock/carnegie-titanium) |
