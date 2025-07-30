@@ -23,7 +23,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 80 | [`durham-pullman`](./stock/durham-pullman) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 19 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 48 | [`forrest`](./stock/forrest) |
-| [Foxe](https://usd.farer.com/products/foxe) | 19 | [`foxe`](./stock/foxe) |
+| [Foxe](https://usd.farer.com/products/foxe) | 18 | [`foxe`](./stock/foxe) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 71 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 22 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 9 | [`lander-kano`](./stock/lander-kano) |
@@ -44,4 +44,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 3 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 73 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1090** | |
+| **Total** | **1089** | |
