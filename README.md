@@ -26,10 +26,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Foxe](https://usd.farer.com/products/foxe) | 19 | [`foxe`](./stock/foxe) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 71 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 22 | [`lander`](./stock/lander) |
-| [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 9 | [`lander-kano`](./stock/lander-kano) |
+| [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 8 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 57 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 44 | [`lindley`](./stock/lindley) |
-| [Lomond II](https://usd.farer.com/products/lomond) | 30 | [`lomond`](./stock/lomond) |
+| [Lomond II](https://usd.farer.com/products/lomond) | 29 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 7 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 25 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 24 | [`mansfield-midnight`](./stock/mansfield-midnight) |
@@ -39,9 +39,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 27 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 14 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 63 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 62 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 22 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 3 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 72 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1082** | |
+| **Total** | **1079** | |
