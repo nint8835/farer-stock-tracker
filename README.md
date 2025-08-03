@@ -27,13 +27,13 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 19 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 9 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 56 | [`lethbridge-gold`](./stock/lethbridge-gold) |
-| [Lindley](https://usd.farer.com/products/lindley) | 43 | [`lindley`](./stock/lindley) |
+| [Lindley](https://usd.farer.com/products/lindley) | 42 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 28 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 6 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 25 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 24 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 61 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
-| [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 46 | [`maze-40mm`](./stock/maze-40mm) |
+| [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 45 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 12 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 27 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 14 | [`new-york`](./stock/new-york) |
@@ -43,4 +43,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 2 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 72 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1059** | |
+| **Total** | **1057** | |
