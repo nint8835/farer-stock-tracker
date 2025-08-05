@@ -35,10 +35,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 44 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 12 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 27 | [`moritz-green`](./stock/moritz-green) |
-| [New York](https://usd.farer.com/products/new-york) | 13 | [`new-york`](./stock/new-york) |
+| [New York](https://usd.farer.com/products/new-york) | 14 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 13 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 61 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 21 | [`roche`](./stock/roche) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 71 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1040** | |
+| **Total** | **1041** | |
