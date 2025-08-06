@@ -11,13 +11,13 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 28 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 51 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 52 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 38 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 4 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 7 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 30 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 51 | [`crooms-40mm`](./stock/crooms-40mm) |
-| [Durham](https://usd.farer.com/products/durham) | 9 | [`durham`](./stock/durham) |
+| [Durham](https://usd.farer.com/products/durham) | 8 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 78 | [`durham-pullman`](./stock/durham-pullman) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 16 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 48 | [`forrest`](./stock/forrest) |
