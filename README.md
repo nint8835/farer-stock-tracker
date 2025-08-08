@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 28 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 52 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 51 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 38 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 4 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 7 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -41,4 +41,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 20 | [`roche`](./stock/roche) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 71 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1026** | |
+| **Total** | **1025** | |
