@@ -18,8 +18,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 30 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 49 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Durham](https://usd.farer.com/products/durham) | 9 | [`durham`](./stock/durham) |
-| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 75 | [`durham-pullman`](./stock/durham-pullman) |
-| [Exmoor II](https://usd.farer.com/products/exmoor) | 16 | [`exmoor`](./stock/exmoor) |
+| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 74 | [`durham-pullman`](./stock/durham-pullman) |
+| [Exmoor II](https://usd.farer.com/products/exmoor) | 15 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 48 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 18 | [`foxe`](./stock/foxe) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 68 | [`lander-36mm`](./stock/lander-36mm) |
@@ -40,5 +40,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 60 | [`pembroke`](./stock/pembroke) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 19 | [`roche`](./stock/roche) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
-| [Stanhope III](https://usd.farer.com/products/stanhope) | 70 | [`stanhope`](./stock/stanhope) |
-| **Total** | **1012** | |
+| [Stanhope III](https://usd.farer.com/products/stanhope) | 69 | [`stanhope`](./stock/stanhope) |
+| **Total** | **1009** | |
