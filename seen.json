@@ -16,6 +16,7 @@
   "charlton-green-38mm",
   "cobb-iii",
   "crooms-40mm",
+  "cuprum",
   "discovery",
   "discovery-black-velvet-36mm",
   "discovery-olive",
@@ -63,6 +64,7 @@
   "palmer-36mm",
   "paris",
   "pembroke",
+  "perlarum",
   "porthleven",
   "portobello",
   "portobello-black",
@@ -73,5 +75,6 @@
   "segrave",
   "solander",
   "stanhope",
-  "thurso"
+  "thurso",
+  "viridis"
 ]
