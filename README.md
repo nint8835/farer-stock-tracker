@@ -17,7 +17,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 7 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 30 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 49 | [`crooms-40mm`](./stock/crooms-40mm) |
-| [Cuprum](https://usd.farer.com/products/cuprum) | 68 | [`cuprum`](./stock/cuprum) |
+| [Cuprum](https://usd.farer.com/products/cuprum) | 67 | [`cuprum`](./stock/cuprum) |
 | [Durham](https://usd.farer.com/products/durham) | 8 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 73 | [`durham-pullman`](./stock/durham-pullman) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 14 | [`exmoor`](./stock/exmoor) |
@@ -46,4 +46,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 70 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 62 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 64 | [`viridis`](./stock/viridis) |
-| **Total** | **1261** | |
+| **Total** | **1260** | |
