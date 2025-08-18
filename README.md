@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 26 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 43 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 42 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 33 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 3 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 7 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -39,11 +39,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 14 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 12 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 59 | [`pembroke`](./stock/pembroke) |
-| [Perlarum](https://usd.farer.com/products/perlarum) | 48 | [`perlarum`](./stock/perlarum) |
+| [Perlarum](https://usd.farer.com/products/perlarum) | 44 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 13 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 47 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 70 | [`stanhope`](./stock/stanhope) |
-| [Tenebris](https://usd.farer.com/products/tenebris) | 60 | [`tenebris`](./stock/tenebris) |
-| [Viridis](https://usd.farer.com/products/viridis) | 63 | [`viridis`](./stock/viridis) |
-| **Total** | **1241** | |
+| [Tenebris](https://usd.farer.com/products/tenebris) | 57 | [`tenebris`](./stock/tenebris) |
+| [Viridis](https://usd.farer.com/products/viridis) | 61 | [`viridis`](./stock/viridis) |
+| **Total** | **1231** | |
