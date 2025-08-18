@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 26 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 41 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 45 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 33 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 3 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 7 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -44,6 +44,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 47 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 60 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 70 | [`stanhope`](./stock/stanhope) |
-| [Tenebris](https://usd.farer.com/products/tenebris) | 56 | [`tenebris`](./stock/tenebris) |
+| [Tenebris](https://usd.farer.com/products/tenebris) | 57 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 60 | [`viridis`](./stock/viridis) |
-| **Total** | **1228** | |
+| **Total** | **1233** | |
