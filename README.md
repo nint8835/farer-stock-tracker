@@ -19,9 +19,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 49 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Cuprum](https://usd.farer.com/products/cuprum) | 64 | [`cuprum`](./stock/cuprum) |
 | [Durham](https://usd.farer.com/products/durham) | 6 | [`durham`](./stock/durham) |
-| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 70 | [`durham-pullman`](./stock/durham-pullman) |
-| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 60 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 10 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
+| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 69 | [`durham-pullman`](./stock/durham-pullman) |
+| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 59 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
+| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 9 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 13 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 46 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 14 | [`foxe`](./stock/foxe) |
@@ -49,4 +49,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 68 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 45 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 56 | [`viridis`](./stock/viridis) |
-| **Total** | **1279** | |
+| **Total** | **1276** | |
