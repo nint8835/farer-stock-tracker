@@ -20,7 +20,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Cuprum](https://usd.farer.com/products/cuprum) | 64 | [`cuprum`](./stock/cuprum) |
 | [Durham](https://usd.farer.com/products/durham) | 6 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 68 | [`durham-pullman`](./stock/durham-pullman) |
-| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 55 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
+| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 54 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 13 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 45 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 14 | [`foxe`](./stock/foxe) |
@@ -34,19 +34,19 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond II](https://usd.farer.com/products/lomond) | 19 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 4 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 22 | [`mansfield`](./stock/mansfield) |
-| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 20 | [`mansfield-midnight`](./stock/mansfield-midnight) |
+| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 21 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 59 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 40 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 11 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 24 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 14 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 11 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 57 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 56 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 33 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 4 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 46 | [`segrave`](./stock/segrave) |
-| [Solander](https://usd.farer.com/products/solander) | 59 | [`solander`](./stock/solander) |
+| [Solander](https://usd.farer.com/products/solander) | 58 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 68 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 45 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 55 | [`viridis`](./stock/viridis) |
-| **Total** | **1253** | |
+| **Total** | **1251** | |
