@@ -28,7 +28,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Foxe](https://usd.farer.com/products/foxe) | 15 | [`foxe`](./stock/foxe) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 59 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 59 | [`lander-36mm`](./stock/lander-36mm) |
-| [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 7 | [`lander`](./stock/lander) |
+| [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 6 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 8 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge](https://usd.farer.com/products/lethbridge) | 1 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 43 | [`lethbridge-gold`](./stock/lethbridge-gold) |
@@ -43,12 +43,12 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 23 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 13 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 11 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 55 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 54 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 33 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 3 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 47 | [`segrave`](./stock/segrave) |
-| [Solander](https://usd.farer.com/products/solander) | 57 | [`solander`](./stock/solander) |
+| [Solander](https://usd.farer.com/products/solander) | 56 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 68 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 42 | [`tenebris`](./stock/tenebris) |
-| [Viridis](https://usd.farer.com/products/viridis) | 53 | [`viridis`](./stock/viridis) |
-| **Total** | **1349** | |
+| [Viridis](https://usd.farer.com/products/viridis) | 52 | [`viridis`](./stock/viridis) |
+| **Total** | **1345** | |
