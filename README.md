@@ -20,8 +20,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Cuprum](https://usd.farer.com/products/cuprum) | 63 | [`cuprum`](./stock/cuprum) |
 | [Durham](https://usd.farer.com/products/durham) | 6 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 68 | [`durham-pullman`](./stock/durham-pullman) |
-| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 52 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 107 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
+| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 51 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
+| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 104 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 11 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 42 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 11 | [`foxe`](./stock/foxe) |
@@ -29,7 +29,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 60 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 1 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 8 | [`lander-kano`](./stock/lander-kano) |
-| [Lethbridge](https://usd.farer.com/products/lethbridge) | 1 | [`lethbridge`](./stock/lethbridge) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 41 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 36 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 14 | [`lomond`](./stock/lomond) |
@@ -50,4 +49,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 67 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 40 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 51 | [`viridis`](./stock/viridis) |
-| **Total** | **1325** | |
+| **Total** | **1320** | |
