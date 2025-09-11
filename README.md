@@ -42,11 +42,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 13 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 53 | [`pembroke`](./stock/pembroke) |
-| [Perlarum](https://usd.farer.com/products/perlarum) | 30 | [`perlarum`](./stock/perlarum) |
+| [Perlarum](https://usd.farer.com/products/perlarum) | 32 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 27 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 45 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 56 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 66 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 40 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 51 | [`viridis`](./stock/viridis) |
-| **Total** | **1316** | |
+| **Total** | **1318** | |
