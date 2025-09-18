@@ -21,10 +21,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham](https://usd.farer.com/products/durham) | 5 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 67 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 45 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 100 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
+| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 99 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 11 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 42 | [`forrest`](./stock/forrest) |
-| [Foxe](https://usd.farer.com/products/foxe) | 9 | [`foxe`](./stock/foxe) |
+| [Foxe](https://usd.farer.com/products/foxe) | 8 | [`foxe`](./stock/foxe) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 55 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 58 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 23 | [`lander`](./stock/lander) |
@@ -38,7 +38,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 57 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 40 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 11 | [`milan`](./stock/milan) |
-| [Moritz Green](https://usd.farer.com/products/moritz-green) | 22 | [`moritz-green`](./stock/moritz-green) |
+| [Moritz Green](https://usd.farer.com/products/moritz-green) | 23 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 13 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 53 | [`pembroke`](./stock/pembroke) |
@@ -47,6 +47,6 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 45 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 54 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 65 | [`stanhope`](./stock/stanhope) |
-| [Tenebris](https://usd.farer.com/products/tenebris) | 39 | [`tenebris`](./stock/tenebris) |
+| [Tenebris](https://usd.farer.com/products/tenebris) | 38 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 51 | [`viridis`](./stock/viridis) |
-| **Total** | **1300** | |
+| **Total** | **1298** | |
