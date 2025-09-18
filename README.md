@@ -34,7 +34,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lomond II](https://usd.farer.com/products/lomond) | 13 | [`lomond`](./stock/lomond) |
 | [London](https://usd.farer.com/products/london) | 4 | [`london`](./stock/london) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 17 | [`mansfield`](./stock/mansfield) |
-| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 18 | [`mansfield-midnight`](./stock/mansfield-midnight) |
+| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 19 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 57 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 40 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 11 | [`milan`](./stock/milan) |
@@ -45,8 +45,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Perlarum](https://usd.farer.com/products/perlarum) | 27 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 26 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 45 | [`segrave`](./stock/segrave) |
-| [Solander](https://usd.farer.com/products/solander) | 53 | [`solander`](./stock/solander) |
+| [Solander](https://usd.farer.com/products/solander) | 54 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 65 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 39 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 51 | [`viridis`](./stock/viridis) |
-| **Total** | **1299** | |
+| **Total** | **1301** | |
