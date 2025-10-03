@@ -25,7 +25,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 8 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 41 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 9 | [`foxe`](./stock/foxe) |
-| [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 52 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
+| [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 53 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 56 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 18 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 8 | [`lander-kano`](./stock/lander-kano) |
@@ -48,4 +48,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 62 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 2 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 11 | [`viridis`](./stock/viridis) |
-| **Total** | **1133** | |
+| **Total** | **1134** | |
