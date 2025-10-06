@@ -11,10 +11,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 24 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 33 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 32 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 21 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 21 | [`carnegie-titanium`](./stock/carnegie-titanium) |
+| [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 20 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 25 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 49 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Cuprum](https://usd.farer.com/products/cuprum) | 46 | [`cuprum`](./stock/cuprum) |
@@ -23,7 +23,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 42 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
 | [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 90 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 8 | [`exmoor`](./stock/exmoor) |
-| [Forrest](https://usd.farer.com/products/forrest) | 41 | [`forrest`](./stock/forrest) |
+| [Forrest](https://usd.farer.com/products/forrest) | 40 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 9 | [`foxe`](./stock/foxe) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 53 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 56 | [`lander-36mm`](./stock/lander-36mm) |
@@ -32,8 +32,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 35 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 33 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 7 | [`lomond`](./stock/lomond) |
-| [Mansfield](https://usd.farer.com/products/mansfield) | 15 | [`mansfield`](./stock/mansfield) |
-| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 19 | [`mansfield-midnight`](./stock/mansfield-midnight) |
+| [Mansfield](https://usd.farer.com/products/mansfield) | 16 | [`mansfield`](./stock/mansfield) |
+| [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 18 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 57 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 40 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan](https://usd.farer.com/products/milan) | 11 | [`milan`](./stock/milan) |
@@ -42,9 +42,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 49 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 17 | [`perlarum`](./stock/perlarum) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 17 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 16 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 46 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 53 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 60 | [`stanhope`](./stock/stanhope) |
 | [Viridis](https://usd.farer.com/products/viridis) | 11 | [`viridis`](./stock/viridis) |
-| **Total** | **1123** | |
+| **Total** | **1119** | |
