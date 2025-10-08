@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 23 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 32 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 31 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 21 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 19 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -41,11 +41,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 10 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 48 | [`pembroke`](./stock/pembroke) |
-| [Perlarum](https://usd.farer.com/products/perlarum) | 11 | [`perlarum`](./stock/perlarum) |
+| [Perlarum](https://usd.farer.com/products/perlarum) | 10 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 15 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 45 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 53 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 59 | [`stanhope`](./stock/stanhope) |
-| [Tenebris](https://usd.farer.com/products/tenebris) | 15 | [`tenebris`](./stock/tenebris) |
+| [Tenebris](https://usd.farer.com/products/tenebris) | 14 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 10 | [`viridis`](./stock/viridis) |
-| **Total** | **1104** | |
+| **Total** | **1101** | |
