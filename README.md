@@ -21,7 +21,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham](https://usd.farer.com/products/durham) | 4 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 67 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 36 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 89 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
+| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 90 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 8 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 40 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 7 | [`foxe`](./stock/foxe) |
@@ -49,4 +49,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 59 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 15 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 9 | [`viridis`](./stock/viridis) |
-| **Total** | **1077** | |
+| **Total** | **1078** | |
