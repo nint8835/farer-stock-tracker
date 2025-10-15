@@ -47,5 +47,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Solander](https://usd.farer.com/products/solander) | 53 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 59 | [`stanhope`](./stock/stanhope) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 13 | [`tenebris`](./stock/tenebris) |
-| [Viridis](https://usd.farer.com/products/viridis) | 9 | [`viridis`](./stock/viridis) |
-| **Total** | **1064** | |
+| [Viridis](https://usd.farer.com/products/viridis) | 8 | [`viridis`](./stock/viridis) |
+| **Total** | **1063** | |
