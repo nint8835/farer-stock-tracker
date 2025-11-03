@@ -12,7 +12,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 22 | [`arber`](./stock/arber) |
 | [Baily - Limited Run](https://usd.farer.com/products/baily) | 22 | [`baily`](./stock/baily) |
-| [Balfour](https://usd.farer.com/products/balfour) | 18 | [`balfour`](./stock/balfour) |
+| [Balfour](https://usd.farer.com/products/balfour) | 19 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 73 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 16 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -22,7 +22,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Durham](https://usd.farer.com/products/durham) | 3 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 67 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 31 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
-| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 84 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
+| [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 83 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 6 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 40 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 2 | [`foxe`](./stock/foxe) |
@@ -48,7 +48,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 39 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 52 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 54 | [`stanhope`](./stock/stanhope) |
-| [Stratton](https://usd.farer.com/products/stratton) | 16 | [`stratton`](./stock/stratton) |
+| [Stratton](https://usd.farer.com/products/stratton) | 15 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 13 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 3 | [`viridis`](./stock/viridis) |
-| **Total** | **1128** | |
+| **Total** | **1127** | |
