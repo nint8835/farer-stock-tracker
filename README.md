@@ -11,10 +11,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 22 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 22 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 21 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 19 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 73 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
+| [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 71 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 16 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 25 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 35 | [`crooms-40mm`](./stock/crooms-40mm) |
@@ -28,7 +28,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Foxe](https://usd.farer.com/products/foxe) | 2 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 66 | [`halley`](./stock/halley) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 49 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 53 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 52 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 7 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 2 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 30 | [`lethbridge-gold`](./stock/lethbridge-gold) |
@@ -51,4 +51,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 16 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 11 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 3 | [`viridis`](./stock/viridis) |
-| **Total** | **1125** | |
+| **Total** | **1121** | |
