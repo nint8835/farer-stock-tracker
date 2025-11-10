@@ -28,7 +28,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Foxe](https://usd.farer.com/products/foxe) | 25 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 61 | [`halley`](./stock/halley) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 46 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
-| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 53 | [`lander-36mm`](./stock/lander-36mm) |
+| [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 52 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 27 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 1 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 30 | [`lethbridge-gold`](./stock/lethbridge-gold) |
@@ -42,7 +42,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 16 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 12 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 45 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 44 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 15 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 11 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 38 | [`segrave`](./stock/segrave) |
@@ -51,4 +51,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 1 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 12 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1170** | |
+| **Total** | **1168** | |
