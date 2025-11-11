@@ -14,7 +14,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Baily - Limited Run](https://usd.farer.com/products/baily) | 22 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 17 | [`balfour`](./stock/balfour) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 1 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 69 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
+| [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 68 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 15 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 25 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 35 | [`crooms-40mm`](./stock/crooms-40mm) |
@@ -32,7 +32,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 27 | [`lander`](./stock/lander) |
 | [Lander Kano 36mm](https://usd.farer.com/products/lander-kano) | 1 | [`lander-kano`](./stock/lander-kano) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 30 | [`lethbridge-gold`](./stock/lethbridge-gold) |
-| [Lindley](https://usd.farer.com/products/lindley) | 31 | [`lindley`](./stock/lindley) |
+| [Lindley](https://usd.farer.com/products/lindley) | 30 | [`lindley`](./stock/lindley) |
 | [Lomond II](https://usd.farer.com/products/lomond) | 7 | [`lomond`](./stock/lomond) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 14 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 19 | [`mansfield-midnight`](./stock/mansfield-midnight) |
@@ -51,4 +51,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 1 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 12 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1168** | |
+| **Total** | **1166** | |
