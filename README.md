@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 20 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 21 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 20 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 14 | [`balfour`](./stock/balfour) |
 | [Benham Black](https://usd.farer.com/products/benham-black) | 68 | [`benham-black`](./stock/benham-black) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 3 | [`bernina-titanium`](./stock/bernina-titanium) |
@@ -43,7 +43,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [New York](https://usd.farer.com/products/new-york) | 12 | [`new-york`](./stock/new-york) |
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 44 | [`pembroke`](./stock/pembroke) |
-| [Perlarum](https://usd.farer.com/products/perlarum) | 25 | [`perlarum`](./stock/perlarum) |
+| [Perlarum](https://usd.farer.com/products/perlarum) | 26 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 10 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 36 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 52 | [`solander`](./stock/solander) |
