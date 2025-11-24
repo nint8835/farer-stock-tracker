@@ -11,7 +11,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 20 | [`arber`](./stock/arber) |
-| [Baily - Limited Run](https://usd.farer.com/products/baily) | 19 | [`baily`](./stock/baily) |
+| [Baily - Limited Run](https://usd.farer.com/products/baily) | 20 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 14 | [`balfour`](./stock/balfour) |
 | [Benham Black](https://usd.farer.com/products/benham-black) | 65 | [`benham-black`](./stock/benham-black) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
@@ -45,10 +45,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 44 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 25 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 8 | [`roche`](./stock/roche) |
-| [Segrave III](https://usd.farer.com/products/segrave) | 35 | [`segrave`](./stock/segrave) |
+| [Segrave III](https://usd.farer.com/products/segrave) | 36 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 52 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 51 | [`stanhope`](./stock/stanhope) |
 | [Stratton](https://usd.farer.com/products/stratton) | 33 | [`stratton`](./stock/stratton) |
-| [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
+| [Tenebris](https://usd.farer.com/products/tenebris) | 11 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1188** | |
+| **Total** | **1191** | |
