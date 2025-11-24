@@ -20,7 +20,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 25 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 35 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Cuprum](https://usd.farer.com/products/cuprum) | 39 | [`cuprum`](./stock/cuprum) |
-| [Durham](https://usd.farer.com/products/durham) | 3 | [`durham`](./stock/durham) |
+| [Durham](https://usd.farer.com/products/durham) | 2 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 66 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 26 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
 | [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 71 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
@@ -44,11 +44,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 44 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 25 | [`perlarum`](./stock/perlarum) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 10 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 8 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 36 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 52 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 51 | [`stanhope`](./stock/stanhope) |
 | [Stratton](https://usd.farer.com/products/stratton) | 33 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 11 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1197** | |
+| **Total** | **1194** | |
