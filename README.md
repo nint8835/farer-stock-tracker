@@ -26,14 +26,14 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 70 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 30 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 38 | [`forrest`](./stock/forrest) |
-| [Foxe](https://usd.farer.com/products/foxe) | 22 | [`foxe`](./stock/foxe) |
+| [Foxe](https://usd.farer.com/products/foxe) | 23 | [`foxe`](./stock/foxe) |
 | [Halley](https://usd.farer.com/products/halley) | 60 | [`halley`](./stock/halley) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 42 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 51 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 22 | [`lander`](./stock/lander) |
 | [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 26 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 30 | [`lindley`](./stock/lindley) |
-| [Lomond II](https://usd.farer.com/products/lomond) | 3 | [`lomond`](./stock/lomond) |
+| [Lomond II](https://usd.farer.com/products/lomond) | 2 | [`lomond`](./stock/lomond) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 12 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 15 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 30 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
@@ -44,11 +44,11 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Paris - Final Edition](https://usd.farer.com/products/paris) | 7 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 44 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 25 | [`perlarum`](./stock/perlarum) |
-| [ROCHÉ II](https://usd.farer.com/products/roche) | 8 | [`roche`](./stock/roche) |
+| [ROCHÉ II](https://usd.farer.com/products/roche) | 7 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 36 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 52 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 51 | [`stanhope`](./stock/stanhope) |
 | [Stratton](https://usd.farer.com/products/stratton) | 31 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 11 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1186** | |
+| **Total** | **1185** | |
