@@ -12,7 +12,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | ----- | --------: | -------------: |
 | [Arber](https://usd.farer.com/products/arber) | 20 | [`arber`](./stock/arber) |
 | [Baily - Limited Run](https://usd.farer.com/products/baily) | 20 | [`baily`](./stock/baily) |
-| [Balfour](https://usd.farer.com/products/balfour) | 13 | [`balfour`](./stock/balfour) |
+| [Balfour](https://usd.farer.com/products/balfour) | 14 | [`balfour`](./stock/balfour) |
 | [Benham Black](https://usd.farer.com/products/benham-black) | 65 | [`benham-black`](./stock/benham-black) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 48 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
@@ -41,7 +41,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan](https://usd.farer.com/products/milan) | 9 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 15 | [`moritz-green`](./stock/moritz-green) |
 | [New York](https://usd.farer.com/products/new-york) | 12 | [`new-york`](./stock/new-york) |
-| [Paris](https://usd.farer.com/products/paris) | 8 | [`paris`](./stock/paris) |
+| [Paris](https://usd.farer.com/products/paris) | 7 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 44 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 25 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 8 | [`roche`](./stock/roche) |
