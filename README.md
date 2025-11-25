@@ -10,9 +10,9 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Arber](https://usd.farer.com/products/arber) | 20 | [`arber`](./stock/arber) |
+| [Arber](https://usd.farer.com/products/arber) | 19 | [`arber`](./stock/arber) |
 | [Baily - Limited Run](https://usd.farer.com/products/baily) | 20 | [`baily`](./stock/baily) |
-| [Balfour](https://usd.farer.com/products/balfour) | 14 | [`balfour`](./stock/balfour) |
+| [Balfour](https://usd.farer.com/products/balfour) | 13 | [`balfour`](./stock/balfour) |
 | [Benham Black](https://usd.farer.com/products/benham-black) | 65 | [`benham-black`](./stock/benham-black) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 48 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
@@ -51,4 +51,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 29 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 11 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1182** | |
+| **Total** | **1180** | |
