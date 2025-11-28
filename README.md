@@ -10,7 +10,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 
 | Model | Available | Serial Numbers |
 | ----- | --------: | -------------: |
-| [Arber](https://usd.farer.com/products/arber) | 18 | [`arber`](./stock/arber) |
+| [Arber](https://usd.farer.com/products/arber) | 19 | [`arber`](./stock/arber) |
 | [Baily - Limited Run](https://usd.farer.com/products/baily) | 19 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 13 | [`balfour`](./stock/balfour) |
 | [Benham Black](https://usd.farer.com/products/benham-black) | 63 | [`benham-black`](./stock/benham-black) |
@@ -50,5 +50,5 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 51 | [`stanhope`](./stock/stanhope) |
 | [Stratton](https://usd.farer.com/products/stratton) | 28 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 11 | [`tenebris`](./stock/tenebris) |
-| [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
+| [Viridis](https://usd.farer.com/products/viridis) | 20 | [`viridis`](./stock/viridis) |
 | **Total** | **1169** | |
