@@ -30,8 +30,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Halley](https://usd.farer.com/products/halley) | 59 | [`halley`](./stock/halley) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 42 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 50 | [`lander-36mm`](./stock/lander-36mm) |
-| [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 21 | [`lander`](./stock/lander) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 25 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 19 | [`lander`](./stock/lander) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 24 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 29 | [`lindley`](./stock/lindley) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 10 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 15 | [`mansfield-midnight`](./stock/mansfield-midnight) |
@@ -50,4 +50,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 24 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 11 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1121** | |
+| **Total** | **1118** | |
