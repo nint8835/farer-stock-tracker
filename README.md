@@ -41,7 +41,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 14 | [`moritz-green`](./stock/moritz-green) |
 | [New York - Final Edition](https://usd.farer.com/products/new-york) | 12 | [`new-york`](./stock/new-york) |
 | [Paris - Final Edition](https://usd.farer.com/products/paris) | 7 | [`paris`](./stock/paris) |
-| [Pembroke II](https://usd.farer.com/products/pembroke) | 24 | [`pembroke`](./stock/pembroke) |
+| [Pembroke II](https://usd.farer.com/products/pembroke) | 23 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 22 | [`perlarum`](./stock/perlarum) |
 | [ROCHÉ II](https://usd.farer.com/products/roche) | 2 | [`roche`](./stock/roche) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 35 | [`segrave`](./stock/segrave) |
@@ -50,4 +50,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 19 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1043** | |
+| **Total** | **1042** | |
