@@ -22,7 +22,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Cuprum](https://usd.farer.com/products/cuprum) | 39 | [`cuprum`](./stock/cuprum) |
 | [Durham](https://usd.farer.com/products/durham) | 1 | [`durham`](./stock/durham) |
 | [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 65 | [`durham-pullman`](./stock/durham-pullman) |
-| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 22 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
+| [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 21 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
 | [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 66 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 25 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 36 | [`forrest`](./stock/forrest) |
@@ -36,7 +36,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Mansfield](https://usd.farer.com/products/mansfield) | 10 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 14 | [`mansfield-midnight`](./stock/mansfield-midnight) |
 | [Maze Blue - 38mm](https://usd.farer.com/products/maze-blue-38mm) | 28 | [`maze-blue-38mm`](./stock/maze-blue-38mm) |
-| [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 36 | [`maze-40mm`](./stock/maze-40mm) |
+| [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 37 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan - Final Edition](https://usd.farer.com/products/milan) | 9 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 14 | [`moritz-green`](./stock/moritz-green) |
 | [New York - Final Edition](https://usd.farer.com/products/new-york) | 12 | [`new-york`](./stock/new-york) |
@@ -47,7 +47,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Segrave III](https://usd.farer.com/products/segrave) | 35 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 52 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 51 | [`stanhope`](./stock/stanhope) |
-| [Stratton](https://usd.farer.com/products/stratton) | 20 | [`stratton`](./stock/stratton) |
+| [Stratton](https://usd.farer.com/products/stratton) | 19 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 21 | [`viridis`](./stock/viridis) |
-| **Total** | **1051** | |
+| **Total** | **1050** | |
