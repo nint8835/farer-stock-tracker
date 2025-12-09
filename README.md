@@ -15,7 +15,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Balfour](https://usd.farer.com/products/balfour) | 11 | [`balfour`](./stock/balfour) |
 | [Benham Black](https://usd.farer.com/products/benham-black) | 57 | [`benham-black`](./stock/benham-black) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
-| [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 1 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
+| [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 2 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 14 | [`carnegie-titanium`](./stock/carnegie-titanium) |
 | [Charlton Green - 38mm](https://usd.farer.com/products/charlton-green-38mm) | 24 | [`charlton-green-38mm`](./stock/charlton-green-38mm) |
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 35 | [`crooms-40mm`](./stock/crooms-40mm) |
@@ -50,4 +50,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 18 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 20 | [`viridis`](./stock/viridis) |
-| **Total** | **1028** | |
+| **Total** | **1029** | |
