@@ -31,7 +31,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 40 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 48 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 16 | [`lander`](./stock/lander) |
-| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 21 | [`lethbridge-gold`](./stock/lethbridge-gold) |
+| [Lethbridge Gold](https://usd.farer.com/products/lethbridge-gold) | 20 | [`lethbridge-gold`](./stock/lethbridge-gold) |
 | [Lindley](https://usd.farer.com/products/lindley) | 29 | [`lindley`](./stock/lindley) |
 | [Mansfield](https://usd.farer.com/products/mansfield) | 10 | [`mansfield`](./stock/mansfield) |
 | [Mansfield Midnight](https://usd.farer.com/products/mansfield-midnight) | 13 | [`mansfield-midnight`](./stock/mansfield-midnight) |
@@ -50,4 +50,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 18 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 20 | [`viridis`](./stock/viridis) |
-| **Total** | **1031** | |
+| **Total** | **1030** | |
