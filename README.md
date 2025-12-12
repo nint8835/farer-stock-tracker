@@ -39,8 +39,8 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Maze III - 40mm](https://usd.farer.com/products/maze-40mm) | 37 | [`maze-40mm`](./stock/maze-40mm) |
 | [Milan - Final Edition](https://usd.farer.com/products/milan) | 8 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 14 | [`moritz-green`](./stock/moritz-green) |
-| [New York - Final Edition](https://usd.farer.com/products/new-york) | 10 | [`new-york`](./stock/new-york) |
-| [Palmer EA Limited Edition](https://usd.farer.com/products/palmer-eastern-arabic-edition) | 89 | [`palmer-eastern-arabic-edition`](./stock/palmer-eastern-arabic-edition) |
+| [New York - Final Edition](https://usd.farer.com/products/new-york) | 9 | [`new-york`](./stock/new-york) |
+| [Palmer EA Limited Edition](https://usd.farer.com/products/palmer-eastern-arabic-edition) | 88 | [`palmer-eastern-arabic-edition`](./stock/palmer-eastern-arabic-edition) |
 | [Paris - Final Edition](https://usd.farer.com/products/paris) | 7 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 23 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 19 | [`perlarum`](./stock/perlarum) |
@@ -50,4 +50,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 19 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 19 | [`viridis`](./stock/viridis) |
-| **Total** | **1102** | |
+| **Total** | **1100** | |
