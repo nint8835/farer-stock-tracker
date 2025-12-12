@@ -13,7 +13,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Arber](https://usd.farer.com/products/arber) | 19 | [`arber`](./stock/arber) |
 | [Baily - Limited Run](https://usd.farer.com/products/baily) | 19 | [`baily`](./stock/baily) |
 | [Balfour](https://usd.farer.com/products/balfour) | 10 | [`balfour`](./stock/balfour) |
-| [Benham Black](https://usd.farer.com/products/benham-black) | 57 | [`benham-black`](./stock/benham-black) |
+| [Benham Black](https://usd.farer.com/products/benham-black) | 56 | [`benham-black`](./stock/benham-black) |
 | [Bernina Titanium](https://usd.farer.com/products/bernina-titanium) | 2 | [`bernina-titanium`](./stock/bernina-titanium) |
 | [Burbidge - Eastern Arabic Edition](https://usd.farer.com/products/burbidge-eastern-arabic-edition) | 1 | [`burbidge-eastern-arabic-edition`](./stock/burbidge-eastern-arabic-edition) |
 | [Carnegie Titanium](https://usd.farer.com/products/carnegie-titanium) | 14 | [`carnegie-titanium`](./stock/carnegie-titanium) |
@@ -21,7 +21,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Crooms III - 40mm](https://usd.farer.com/products/crooms-40mm) | 34 | [`crooms-40mm`](./stock/crooms-40mm) |
 | [Cuprum](https://usd.farer.com/products/cuprum) | 39 | [`cuprum`](./stock/cuprum) |
 | [Durham](https://usd.farer.com/products/durham) | 1 | [`durham`](./stock/durham) |
-| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 65 | [`durham-pullman`](./stock/durham-pullman) |
+| [Durham Pullman](https://usd.farer.com/products/durham-pullman) | 64 | [`durham-pullman`](./stock/durham-pullman) |
 | [Endeavour](https://usd.farer.com/products/endeavour-titanium-series-iii) | 20 | [`endeavour-titanium-series-iii`](./stock/endeavour-titanium-series-iii) |
 | [Endeavour Ocean Blue](https://usd.farer.com/products/endeavour-ocean-blue) | 68 | [`endeavour-ocean-blue`](./stock/endeavour-ocean-blue) |
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 25 | [`exmoor`](./stock/exmoor) |
@@ -50,4 +50,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 19 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 19 | [`viridis`](./stock/viridis) |
-| **Total** | **1107** | |
+| **Total** | **1105** | |
