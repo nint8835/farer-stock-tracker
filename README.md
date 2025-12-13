@@ -27,7 +27,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Exmoor II](https://usd.farer.com/products/exmoor) | 25 | [`exmoor`](./stock/exmoor) |
 | [Forrest](https://usd.farer.com/products/forrest) | 35 | [`forrest`](./stock/forrest) |
 | [Foxe](https://usd.farer.com/products/foxe) | 19 | [`foxe`](./stock/foxe) |
-| [Halley](https://usd.farer.com/products/halley) | 53 | [`halley`](./stock/halley) |
+| [Halley](https://usd.farer.com/products/halley) | 54 | [`halley`](./stock/halley) |
 | [Hecla Hunter Green](https://usd.farer.com/products/hecla-hunter-green) | 40 | [`hecla-hunter-green`](./stock/hecla-hunter-green) |
 | [Lander IV 36mm](https://usd.farer.com/products/lander-36mm) | 47 | [`lander-36mm`](./stock/lander-36mm) |
 | [Lander IV 39.5mm](https://usd.farer.com/products/lander) | 15 | [`lander`](./stock/lander) |
@@ -40,7 +40,7 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan - Final Edition](https://usd.farer.com/products/milan) | 8 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 14 | [`moritz-green`](./stock/moritz-green) |
 | [New York - Final Edition](https://usd.farer.com/products/new-york) | 10 | [`new-york`](./stock/new-york) |
-| [Palmer EA Limited Edition](https://usd.farer.com/products/palmer-eastern-arabic-edition) | 84 | [`palmer-eastern-arabic-edition`](./stock/palmer-eastern-arabic-edition) |
+| [Palmer EA Limited Edition](https://usd.farer.com/products/palmer-eastern-arabic-edition) | 85 | [`palmer-eastern-arabic-edition`](./stock/palmer-eastern-arabic-edition) |
 | [Paris - Final Edition](https://usd.farer.com/products/paris) | 7 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 22 | [`pembroke`](./stock/pembroke) |
 | [Perlarum](https://usd.farer.com/products/perlarum) | 19 | [`perlarum`](./stock/perlarum) |
@@ -50,4 +50,4 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Stratton](https://usd.farer.com/products/stratton) | 19 | [`stratton`](./stock/stratton) |
 | [Tenebris](https://usd.farer.com/products/tenebris) | 10 | [`tenebris`](./stock/tenebris) |
 | [Viridis](https://usd.farer.com/products/viridis) | 19 | [`viridis`](./stock/viridis) |
-| **Total** | **1120** | |
+| **Total** | **1122** | |
