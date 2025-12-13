@@ -39,10 +39,10 @@ This repo updates the available serial numbers every hour. Serial numbers for ea
 | [Milan - Final Edition](https://usd.farer.com/products/milan) | 8 | [`milan`](./stock/milan) |
 | [Moritz Green](https://usd.farer.com/products/moritz-green) | 14 | [`moritz-green`](./stock/moritz-green) |
 | [New York - Final Edition](https://usd.farer.com/products/new-york) | 10 | [`new-york`](./stock/new-york) |
-| [Palmer EA Limited Edition](https://usd.farer.com/products/palmer-eastern-arabic-edition) | 88 | [`palmer-eastern-arabic-edition`](./stock/palmer-eastern-arabic-edition) |
+| [Palmer EA Limited Edition](https://usd.farer.com/products/palmer-eastern-arabic-edition) | 87 | [`palmer-eastern-arabic-edition`](./stock/palmer-eastern-arabic-edition) |
 | [Paris - Final Edition](https://usd.farer.com/products/paris) | 7 | [`paris`](./stock/paris) |
 | [Pembroke II](https://usd.farer.com/products/pembroke) | 22 | [`pembroke`](./stock/pembroke) |
-| [Perlarum](https://usd.farer.com/products/perlarum) | 18 | [`perlarum`](./stock/perlarum) |
+| [Perlarum](https://usd.farer.com/products/perlarum) | 19 | [`perlarum`](./stock/perlarum) |
 | [Segrave III](https://usd.farer.com/products/segrave) | 34 | [`segrave`](./stock/segrave) |
 | [Solander](https://usd.farer.com/products/solander) | 52 | [`solander`](./stock/solander) |
 | [Stanhope III](https://usd.farer.com/products/stanhope) | 50 | [`stanhope`](./stock/stanhope) |
